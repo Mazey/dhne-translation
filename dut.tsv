@@ -28,7 +28,7 @@ src/character_unlocks.lua:63		god stronger warrior	god zijn sterke krijger
 src/character_unlocks.lua:74 (+1 others)		woof	woef
 src/character_unlocks.lua:84		woof?	woef?
 src/character_unlocks.lua:95		he's so cool	hij is zo cool
-src/character_unlocks.lua:105		slimy	slijmig
+src/character_unlocks.lua:105		slimy	slijmerig
 src/character_unlocks.lua:115		she's doing well for herself	ze heeft alles op een rijtje
 src/character_unlocks.lua:120		Plasticine	Speelklei
 src/character_unlocks.lua:121		like putty in your hands\ncharacter customisation option	als klei in je handen\npas je karakter aan
@@ -73,7 +73,7 @@ src/characters/god.lua:72		and 	en
 src/characters/god.lua:74		wager a gold ¤	zet één goud ¤ in
 src/characters/god.lua:82	dialogue	you always were my bravest child	je was altijd mijn dapperste kind
 src/characters/god.lua:87		God?	God?
-src/characters/god.lua:237		i demand commitment	ik eis dat je je committeert
+src/characters/god.lua:237		i demand commitment	ik eis dat je inzet toont
 src/characters/god.lua:239		show me what you have earned	
 src/characters/god.lua:243		give me everything	
 src/characters/god.lua:247		do you have what it takes?	
@@ -1534,43 +1534,43 @@ src/tapes.lua:73		World's Smallest Breakcore
 src/tapes.lua:85 (+2 others)		noname	
 src/tapes.lua:86 (+2 others)		Yume no Ato	
 src/tapes.lua:117		Dreamy Synthwave	
-src/ui/character_body.lua:291 (+2 others)	ui	LOCKED	
-src/ui/combination_table.lua:34 (+1 others)	ui	flush	
-src/ui/combination_table.lua:46	ui	%d  x%.2f	
-src/ui/combination_table.lua:48	ui	Combinations	
-src/ui/combination_table.lua:48	ui	hello :)	
-src/ui/game_setup_options.lua:4	ui	easy bet	
-src/ui/game_setup_options.lua:5	ui	increase difficulty by 1	
-src/ui/game_setup_options.lua:16	ui	medium bet	
-src/ui/game_setup_options.lua:17	ui	increase difficulty by 2	
-src/ui/game_setup_options.lua:28	ui	hard bet	
-src/ui/game_setup_options.lua:29	ui	increase difficulty by 3	
-src/ui/help_screen.lua:18	ui	HELP ME!	
-src/ui/help_screen.lua:74	ui	INFO DUMP :)	
-src/ui/help_screen.lua:111 (+1 others)	ui	BUST	
-src/ui/help_screen.lua:112	ui	Each die has a red Bust side.\nRolling Bust side reduces your Bust meter.\n\nIf Bust meter goes to 0 you WIPE.\nAll unbanked points are gone, turn ends.	
-src/ui/help_screen.lua:115	ui	ALL BUST - INSTANT WIPE	
-src/ui/help_screen.lua:116	ui	The tricky part!\n\nIf all dice you rolled at once show Bust,\nyou WIPE instantly, regardless of the Bust meter.\n\nExample: 3 out of 3 dice rolled Bust	
+src/ui/character_body.lua:291 (+2 others)	ui	LOCKED	VERGRENDELD
+src/ui/combination_table.lua:34 (+1 others)	ui	flush	flush
+src/ui/combination_table.lua:46	ui	%d  x%.2f	%d  x%.2f
+src/ui/combination_table.lua:48	ui	Combinations	Combinaties
+src/ui/combination_table.lua:48	ui	hello :)	hoi :)
+src/ui/game_setup_options.lua:4	ui	easy bet	makkelijke inzet
+src/ui/game_setup_options.lua:5	ui	increase difficulty by 1	verhoog moeilijkheid met 1
+src/ui/game_setup_options.lua:16	ui	medium bet	gemiddelde inzet
+src/ui/game_setup_options.lua:17	ui	increase difficulty by 2	verhoog moeilijkheid met 2
+src/ui/game_setup_options.lua:28	ui	hard bet	moeilijke inzet
+src/ui/game_setup_options.lua:29	ui	increase difficulty by 3	verhoog moeilijkheid met 3
+src/ui/help_screen.lua:18	ui	HELP ME!	HELP MIJ!
+src/ui/help_screen.lua:74	ui	INFO DUMP :)	INFO DUMP :)
+src/ui/help_screen.lua:111 (+1 others)	ui	BUST	BLUNDER
+src/ui/help_screen.lua:112	ui	Each die has a red Bust side.\nRolling Bust side reduces your Bust meter.\n\nIf Bust meter goes to 0 you WIPE.\nAll unbanked points are gone, turn ends.	Elke dobbelsteen heeft een rode Blunder-zijde.\nAls je een Blunder gooit, neemt je Blunder-meter af.\n\nAls de Blunder-meter 0 bereikt, ben je uitgeschakeld.\nAlle nog niet veiliggestelde punten gaan verloren en de beurt eindigt.
+src/ui/help_screen.lua:115	ui	ALL BUST - INSTANT WIPE	VOLLEDIGE BLUNDER - GELIJK UITGESCHAKELD
+src/ui/help_screen.lua:116	ui	The tricky part!\n\nIf all dice you rolled at once show Bust,\nyou WIPE instantly, regardless of the Bust meter.\n\nExample: 3 out of 3 dice rolled Bust	Het geniepige stukje!\n\nAls alle dobbelstenen die je tegelijkertijd hebt geworpen Blunders zijn,\n ben je gelijk UITGESCHAKELD, ongeacht de stand van de Blunder-meter.\n\nVoorbeeld: 3 van de 3 geworpen dobbelstenen zijn Blunders
 src/ui/help_screen.lua:119	ui	BANKING	
-src/ui/help_screen.lua:120	ui	BANK to lock in your points and refill the Bust meter.\nEach BANK ends your Turn.	
-src/ui/help_screen.lua:123	ui	TURN	
-src/ui/help_screen.lua:124	ui	Each level you get limited Turns.\nTurns end when you BANK or WIPE.\nWhen you run out of Turns the game is over.\nBust meter and Power charge refill each turn.	
-src/ui/help_screen.lua:129	ui	SCORING	
-src/ui/help_screen.lua:130	ui	Select dice that form a combo and score them.\nPoints x Mult = Score.\nBigger combos score exponentially more.\nScore multiple combos in one Turn to build Momentum for extra Points and Mult	
+src/ui/help_screen.lua:120	ui	BANK to lock in your points and refill the Bust meter.\nEach BANK ends your Turn.	STORT om je punten veilig te stellen en de Blunder-meter opnieuw te vullen.\n Elke STORT beëindigt je beurt.
+src/ui/help_screen.lua:123	ui	TURN	BEURT
+src/ui/help_screen.lua:124	ui	Each level you get limited Turns.\nTurns end when you BANK or WIPE.\nWhen you run out of Turns the game is over.\nBust meter and Power charge refill each turn.	In elk level krijg je een beperkt aantal beurten.\nBeurten eindigen wanneer je STORT of uit bent geschakeld.\nWanneer al je beurten om zijn, is het spel afgelopen.\nBlunder-meter en krachtlading worden elke beurt hervult.
+src/ui/help_screen.lua:129	ui	SCORING	PUNTENTELLING
+src/ui/help_screen.lua:130	ui	Select dice that form a combo and score them.\nPoints x Mult = Score.\nBigger combos score exponentially more.\nScore multiple combos in one Turn to build Momentum for extra Points and Mult	Selecteer dobbelstenen die een combinatie vormen en tel ze.\nPunten x Mult = Score.\nGrotere combinaties leveren een exponentieel grotere score op.\n Scoor meerdere combos in één beurt om momentum op te bouwen voor extra Punten en Mult
 src/ui/help_screen.lua:133	ui	TRINKETS, SPELLS & SNACKS	
-src/ui/help_screen.lua:134	ui	- Trinkets are passive, they trigger automatically.\n- Spells are one time use!\n- Snacks are dragged onto a die to add special effects.	
-src/ui/help_screen.lua:137	ui	CHARACTER POWER	
-src/ui/help_screen.lua:138	ui	Each character has a unique Power. Use them to modify dice, reduce risk and get better combos.\n\nPower recharges each turn or with die side effects and items.	
-src/ui/help_screen.lua:141	ui	BASIC TACTICS	
-src/ui/help_screen.lua:142	ui	The more dice you roll at once the bigger chance of any Bust, but smaller chance of All Bust.\n\nRerolling a single die is ballsy! Prioritize rerolling blank dice. Scoring a single big combo is better than few pairs.	
-src/ui/item_hover.lua:72 (+4 others)	ui	SPELL	
-src/ui/level_map.lua:65	ui	LEVEL MAP	
-src/ui/level_map.lua:165	ui	Level 	
-src/ui/level_map.lua:168	ui	Final nightmare level	
-src/ui/level_map.lua:171	ui	Final level	
-src/ui/level_map.lua:174	ui	Nightmare level	
-src/ui/level_map.lua:181	ui	pts	
-src/ui/state_tabs.lua:3 (+1 others)	ui	customisation	
-src/ui/state_tabs.lua:4 (+1 others)	ui	catalogue	
-src/ui/state_tabs.lua:5 (+2 others)	ui	unlock	
-src/ui/tooltip.lua:82	ui	tip	
+src/ui/help_screen.lua:134	ui	- Trinkets are passive, they trigger automatically.\n- Spells are one time use!\n- Snacks are dragged onto a die to add special effects.	- Prulletjes zijn passied, zij worden automatisch geactiveerd.\n- Spreuken zijn voor eenmalig gebruik!\n- Tussendoortjes sleep je naar een dobbelsteen toe om speciale effecten toe te voegen.
+src/ui/help_screen.lua:137	ui	CHARACTER POWER	PERSONAGEKRACHT
+src/ui/help_screen.lua:138	ui	Each character has a unique Power. Use them to modify dice, reduce risk and get better combos.\n\nPower recharges each turn or with die side effects and items.	Elke personage heeft een unieke kracht. Gebruik ze om een dobbelsteen te veranderen, risico te verminderen en betere combos te krijgen.\n\n Kracht laadt elke beurt op of met effecten van dobbelstenen en items.
+src/ui/help_screen.lua:141	ui	BASIC TACTICS	BASIS-TACTIEKEN
+src/ui/help_screen.lua:142	ui	The more dice you roll at once the bigger chance of any Bust, but smaller chance of All Bust.\n\nRerolling a single die is ballsy! Prioritize rerolling blank dice. Scoring a single big combo is better than few pairs.	Hoe meer dobbelstenen je tegelijk gooit, hoe groter de kans voor een Blunder, maar een kleinere kans voor een volledige Blunder.\n\nHet gooien van een enkele dobbelsteen is riskant! Probeer eerst dobbelstenen te gooien die niks opleveren. Het scoren van één grote combo is beter dan wat paren.
+src/ui/item_hover.lua:72 (+4 others)	ui	SPELL	SPREUK
+src/ui/level_map.lua:65	ui	LEVEL MAP	LEVEL KAART
+src/ui/level_map.lua:165	ui	Level 	Level
+src/ui/level_map.lua:168	ui	Final nightmare level	Laatste nachtmerrie level
+src/ui/level_map.lua:171	ui	Final level	Laatste level
+src/ui/level_map.lua:174	ui	Nightmare level	Nachtmerrie level
+src/ui/level_map.lua:181	ui	pts	ptn
+src/ui/state_tabs.lua:3 (+1 others)	ui	customisation	aanpassingen
+src/ui/state_tabs.lua:4 (+1 others)	ui	catalogue	catalogus
+src/ui/state_tabs.lua:5 (+2 others)	ui	unlock	ontgrendelen
+src/ui/tooltip.lua:82	ui	tip	tip
