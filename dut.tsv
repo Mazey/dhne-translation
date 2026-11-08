@@ -1,79 +1,79 @@
 location	extra context	en	translation
-src/are_you_sure.lua:14 (+3 others)		Are you sure?	
-src/are_you_sure.lua:15 (+13 others)		yes	
-src/are_you_sure.lua:17		really?	
-src/board_unlocks.lua:7		chill vibes	
-src/board_unlocks.lua:17		the real game begins	
-src/board_unlocks.lua:27		something smells fishy	
-src/boards/easy.lua:2		Shallows	
-src/boards/easy.lua:3		Chill Vibes.\nShort run, extra bust limit, capped rewards.	
-src/boards/easy.lua:4		the friendliest pond around	
-src/boards/fish_board.lua:2		The Bay	
-src/boards/fish_board.lua:3		Smells Fishy	
-src/boards/fish_board.lua:4		come for the fish, stay for the fish	
-src/boards/normal.lua:2		Lands Adrift	
-src/boards/normal.lua:3		Real game begins.	
-src/boards/normal.lua:4		you'll never want to leave	
-src/boards/rift.lua:3		Decide how deep you can go.	
-src/boards/rift.lua:4		please mind the gap	
-src/boards/the_end.lua:2		The End	
-src/boards/the_end.lua:3		This is it.	
-src/boards/the_end.lua:4		thank you for visiting	
-src/character_unlocks.lua:10		never born but alive	
-src/character_unlocks.lua:21		tries her best	
-src/character_unlocks.lua:31		likes watching you bust	
-src/character_unlocks.lua:42		just a dude	
-src/character_unlocks.lua:53		gets away with it	
-src/character_unlocks.lua:63		god stronger warrior	
-src/character_unlocks.lua:74 (+1 others)		woof	
-src/character_unlocks.lua:84		woof?	
-src/character_unlocks.lua:95		he's so cool	
-src/character_unlocks.lua:105		slimy	
-src/character_unlocks.lua:115		she's doing well for herself	
-src/character_unlocks.lua:120		Plasticine	
-src/character_unlocks.lua:121		like putty in your hands\ncharacter customisation option	
-src/character_unlocks.lua:133		Bets	
-src/character_unlocks.lua:134		bet ¤ to increase difficulty and reward	
-src/character_unlocks.lua:145		Soul Wager	
-src/character_unlocks.lua:146		bet your save file for the ultimate reward	
-src/characters/anais.lua:2		Anais	
-src/characters/anais.lua:38		Biblically Accurate	
-src/characters/anais.lua:39		real angels dont have wings	
-src/characters/anais.lua:56	dialogue	Kill what you love	
-src/characters/business_fish.lua:2		Business Fish	
-src/characters/business_fish.lua:33		Promotion	
-src/characters/business_fish.lua:34		dont let us down	
-src/characters/business_fish.lua:53 (+1 others)	dialogue	You're playing shallows?	
-src/characters/business_fish.lua:54 (+1 others)	dialogue	This ain't it	
-src/characters/business_fish.lua:55 (+1 others)	dialogue	Take me into deep waters baby.	
-src/characters/business_fish.lua:57	dialogue	Tuff' day in fish business	
-src/characters/cool_fish.lua:2		Cool Fish	
-src/characters/cool_fish.lua:34		Level 2	
-src/characters/cool_fish.lua:35 (+3 others)		level up	
-src/characters/cool_fish.lua:42		Level 3	
-src/characters/cool_fish.lua:43		level up more	
-src/characters/cool_fish.lua:66	dialogue	Oh, this jacket?\nIt was 3000¥	
-src/characters/cool_fish.lua:67	dialogue	It's from Japan yeah	
-src/characters/dog.lua:2		Dog	
-src/characters/dog.lua:34		Fancy Fancy	
-src/characters/god.lua:11	dialogue	unworthy	
-src/characters/god.lua:15	dialogue	fall back	
-src/characters/god.lua:31	dialogue	begone	
-src/characters/god.lua:36 (+1 others)		soul	
-src/characters/god.lua:37		wager your soul	
-src/characters/god.lua:43	dialogue	i hope you are feeling lucky	
-src/characters/god.lua:52 (+2 others)		gold	
-src/characters/god.lua:62		but you have nothing left	
-src/characters/god.lua:64		but you have earned nothing	
-src/characters/god.lua:66		but you need 	
-src/characters/god.lua:71		gold ¤	
-src/characters/god.lua:72		wager all 	
-src/characters/god.lua:72		wager 	
-src/characters/god.lua:72		and 	
-src/characters/god.lua:74		wager a gold ¤	
-src/characters/god.lua:82	dialogue	you always were my bravest child	
-src/characters/god.lua:87		God?	
-src/characters/god.lua:237		i demand commitment	
+src/are_you_sure.lua:14 (+3 others)		Are you sure?	Weet je het zeker?
+src/are_you_sure.lua:15 (+13 others)		yes	ja
+src/are_you_sure.lua:17		really?	echt?
+src/board_unlocks.lua:7		chill vibes	goed sfeertje
+src/board_unlocks.lua:17		the real game begins	het echte spel begint nu
+src/board_unlocks.lua:27		something smells fishy	daar zit een luchtje aan
+src/boards/easy.lua:2		Shallows	Het Ondiepe
+src/boards/easy.lua:3		Chill Vibes.\nShort run, extra bust limit, capped rewards.	Rustig aan.\nKort potje, meer blunders, minder beloningen
+src/boards/easy.lua:4		the friendliest pond around	het gezelligste vijvertje
+src/boards/fish_board.lua:2		The Bay	De Baai
+src/boards/fish_board.lua:3		Smells Fishy	Stinkt een beetje
+src/boards/fish_board.lua:4		come for the fish, stay for the fish	kwam voor de vis, bleef voor de vis
+src/boards/normal.lua:2		Lands Adrift	Het Weggedreven Land
+src/boards/normal.lua:3		Real game begins.	Het spel begint echt.
+src/boards/normal.lua:4		you'll never want to leave	je wilt nooit meer weg
+src/boards/rift.lua:3		Decide how deep you can go.	Bepaal hoe diep je kunt gaan.
+src/boards/rift.lua:4		please mind the gap	Probeer niet te vallen
+src/boards/the_end.lua:2		The End	Het Einde
+src/boards/the_end.lua:3		This is it.	Dit is het.
+src/boards/the_end.lua:4		thank you for visiting	bedankt voor het komen
+src/character_unlocks.lua:10		never born but alive	ongeboren leven
+src/character_unlocks.lua:21		tries her best	doet d'r best
+src/character_unlocks.lua:31		likes watching you bust	geniet van je blunders
+src/character_unlocks.lua:42		just a dude	een normale gast
+src/character_unlocks.lua:53		gets away with it	komt ermee weg
+src/character_unlocks.lua:63		god stronger warrior	god zijn sterke krijger
+src/character_unlocks.lua:74 (+1 others)		woof	woef
+src/character_unlocks.lua:84		woof?	woef?
+src/character_unlocks.lua:95		he's so cool	hij is zo cool
+src/character_unlocks.lua:105		slimy	slijmig
+src/character_unlocks.lua:115		she's doing well for herself	ze heeft alles op een rijtje
+src/character_unlocks.lua:120		Plasticine	Speelklei
+src/character_unlocks.lua:121		like putty in your hands\ncharacter customisation option	als klei in je handen\npas je karakter aan
+src/character_unlocks.lua:133		Bets	Inzetten
+src/character_unlocks.lua:134		bet ¤ to increase difficulty and reward	zet ¤ in om moeilijker te maken en hogere beloning
+src/character_unlocks.lua:145		Soul Wager	Ziel Wedden
+src/character_unlocks.lua:146		bet your save file for the ultimate reward	wed je hele voortgang voor de ultieme beloning
+src/characters/anais.lua:2		Anais	Anais
+src/characters/anais.lua:38		Biblically Accurate	Conform de bijbel
+src/characters/anais.lua:39		real angels dont have wings	echte engelen hebben geen vleugels
+src/characters/anais.lua:56	dialogue	Kill what you love	Dood wat je lief hebt
+src/characters/business_fish.lua:2		Business Fish	Kantoorvis
+src/characters/business_fish.lua:33		Promotion	Promotie
+src/characters/business_fish.lua:34		dont let us down	stel ons niet teleur
+src/characters/business_fish.lua:53 (+1 others)	dialogue	You're playing shallows?	Je speelt in het ondiepe?
+src/characters/business_fish.lua:54 (+1 others)	dialogue	This ain't it	Ik vind 't maar niks
+src/characters/business_fish.lua:55 (+1 others)	dialogue	Take me into deep waters baby.	Breng me naar het diepe maatje.
+src/characters/business_fish.lua:57	dialogue	Tuff' day in fish business	Soms moet je risico's nemen als je succesvol wilt zijn
+src/characters/cool_fish.lua:2		Cool Fish	Coole Vis
+src/characters/cool_fish.lua:34		Level 2	Level 2
+src/characters/cool_fish.lua:35 (+3 others)		level up	Level erbij
+src/characters/cool_fish.lua:42		Level 3	Level 3
+src/characters/cool_fish.lua:43		level up more	Nog een level erbij
+src/characters/cool_fish.lua:66	dialogue	Oh, this jacket?\nIt was 3000¥	Oh, deze jas?\nDie was ¥3000
+src/characters/cool_fish.lua:67	dialogue	It's from Japan yeah	Komt uit Japan, weet je
+src/characters/dog.lua:2		Dog	Hond
+src/characters/dog.lua:34		Fancy Fancy	Prachtig Prachtig
+src/characters/god.lua:11	dialogue	unworthy	onwaardig
+src/characters/god.lua:15	dialogue	fall back	val terug
+src/characters/god.lua:31	dialogue	begone	verdwijn
+src/characters/god.lua:36 (+1 others)		soul	ziel
+src/characters/god.lua:37		wager your soul	zet je ziel in
+src/characters/god.lua:43	dialogue	i hope you are feeling lucky	ik hoop voor je dat het je geluksdag is
+src/characters/god.lua:52 (+2 others)		gold	goud
+src/characters/god.lua:62		but you have nothing left	maar je hebt niks meer over
+src/characters/god.lua:64		but you have earned nothing	maar je hebt niets verdiend
+src/characters/god.lua:66		but you need 	maar wat je nodig hebt is
+src/characters/god.lua:71		gold ¤	goud ¤
+src/characters/god.lua:72		wager all 	alles inzetten
+src/characters/god.lua:72		wager 	zet in
+src/characters/god.lua:72		and 	en
+src/characters/god.lua:74		wager a gold ¤	zet één goud ¤ in
+src/characters/god.lua:82	dialogue	you always were my bravest child	je was altijd mijn dapperste kind
+src/characters/god.lua:87		God?	God?
+src/characters/god.lua:237		i demand commitment	ik eis dat je je committeert
 src/characters/god.lua:239		show me what you have earned	
 src/characters/god.lua:243		give me everything	
 src/characters/god.lua:247		do you have what it takes?	
