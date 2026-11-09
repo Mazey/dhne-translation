@@ -74,11 +74,11 @@ src/characters/god.lua:74		wager a gold ¤	zet één goud ¤ in
 src/characters/god.lua:82	dialogue	you always were my bravest child	je was altijd mijn dapperste kind
 src/characters/god.lua:87		God?	God?
 src/characters/god.lua:237		i demand commitment	ik eis dat je inzet toont
-src/characters/god.lua:239		show me what you have earned	
-src/characters/god.lua:243		give me everything	
-src/characters/god.lua:247		do you have what it takes?	
-src/characters/god.lua:251		you are never getting out of here	
-src/characters/god.lua:295		i always believed in you	
+src/characters/god.lua:239		show me what you have earned	laat zien wat je hebt verdiend
+src/characters/god.lua:243		give me everything	geef alles aan mij
+src/characters/god.lua:247		do you have what it takes?	heb je wat nodig is?
+src/characters/god.lua:251		you are never getting out of here	jij komt hier nooit meer uit
+src/characters/god.lua:295		i always believed in you	ik heb altijd in je geloofd
 src/characters/guy.lua:2		Guy	
 src/characters/guy.lua:34		Eyes Wide Open	
 src/characters/guy.lua:35		see the stars	
