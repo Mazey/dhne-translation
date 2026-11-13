@@ -114,19 +114,19 @@ src/characters/liz.lua:140	dialogue	Hope it's worth it!	Hoop dat het waard is!
 src/characters/mushroom.lua:2		Srop M.	Srop M.
 src/characters/saimi.lua:2		Saimi	Saimi
 src/characters/saimi.lua:31 (+2 others)	dialogue	Moi	Moi
-src/characters/saimi.lua:32	dialogue	Get past level ${count}, and you're free.	Na level ${count} ben je vrij
-src/characters/saimi.lua:50	dialogue	Keep going keep going	Door door door
+src/characters/saimi.lua:32	dialogue	Get past level ${count}, and you're free.	Kom voorbij level ${count} en je bent vrij
+src/characters/saimi.lua:50	dialogue	Keep going keep going	Go door ga door ga door
 src/characters/saimi.lua:52 (+1 others)	dialogue	I'll revive you for $cost ¤ and difficulty increase.	Ik kan je weer opknappen voor $cost ¤ en een hogere moeilijkheid
 src/characters/saimi.lua:58	dialogue	Lame :)	Laf :)
 src/characters/saimi.lua:71	dialogue	Let's Go!	Hoppa!
 src/characters/shirin.lua:2		Shirin	Shirin
-src/characters/shirin.lua:49 (+1 others)	dialogue	Oh. You’re mine now.	Oh. Je bent van mij nu
+src/characters/shirin.lua:49 (+1 others)	dialogue	Oh. You’re mine now.	Oh. Nu ben je de mijne.
 src/characters/shirin.lua:50	dialogue	I’ll let you go if you reach level 7.	Ik laat je gaan als je level 7 haalt
 src/characters/shirin.lua:53	dialogue	I’ll let you go if you reach level 10.	Ik laat je gaan als je level 10 haalt
 src/characters/shirin.lua:179	dialogue	Feeling lucky?	Tijd om met je neus in de boter te vallen?
 src/characters/shirin.lua:181	dialogue	I'll let you toss a coin to revive you for $cost ¤	Van mij mag je een munt opgooien om je weer op te knappen voor $cost ¤
 src/characters/shirin.lua:187	dialogue	RIP	RIP
-src/characters/shirin.lua:197	dialogue	Bad luck...	Onsucces...
+src/characters/shirin.lua:197	dialogue	Bad luck...	Geen succes...
 src/characters/shirin.lua:205	dialogue	Good luck!	Succes!
 src/characters/tooth_fairy.lua:2		Tooth Fairy	Tandenfee
 src/characters/tooth_fairy.lua:40	dialogue	Reach level 7 and I'll leave your teeth alone.	Haal level 7 en ik zal je tanden met rust laten
@@ -141,20 +141,20 @@ src/characters/tutorial_character.lua:60	dialogue	They're not safe until you BAN
 src/characters/tutorial_character.lua:61	dialogue	You have ${TURNS} Turns to reach your goal.\nBANKing ends your Turn.	Je hebt ${TURNS} beurten om het doel te halen.\nSTORTen eindigt je Beurt.
 src/characters/tutorial_character.lua:65	dialogue	Bigger combos give you exponentially bigger rewards.	Grotere combos geven je exponentieel grotere beloningen.
 src/characters/tutorial_character.lua:69		<- See what combos are available up here	<- Zie hierboven welke combos mogelijk zijn
-src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!	
+src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!	Rol een blanco dobbelsteen en ga door!
 src/characters/tutorial_character.lua:95	dialogue	Oh also, you can hold and drag Left Click to box select	
-src/characters/tutorial_character.lua:107	dialogue	Each time you Score more Combos in a Turn, you gain Momentum	
-src/characters/tutorial_character.lua:108	dialogue	Momentum gives you extra Points and Mult on your next Score	
-src/characters/tutorial_character.lua:109	dialogue	Your momentum is reset to zero at the start of each Turn.	
-src/characters/tutorial_character.lua:119	dialogue	You've hit the target!	
-src/characters/tutorial_character.lua:120	dialogue	BANK your Points to complete the level.	
-src/characters/tutorial_character.lua:130	dialogue	You made it through the first level!	
-src/characters/tutorial_character.lua:131	dialogue	Between levels, you'll visit The Shop, buy Trinkets, Snacks and Spells.\nAll the fun stuff.	
-src/characters/tutorial_character.lua:155		combo	
-src/characters/tutorial_character.lua:156	dialogue	That's a ${combo_label}!	
-src/characters/tutorial_character.lua:157	dialogue	Select and score it!	
-src/characters/tutorial_character.lua:169	dialogue	Nice, those Points are safe now.	
-src/characters/tutorial_character.lua:170	dialogue	BANK refilled your Bust meter.	
+src/characters/tutorial_character.lua:107	dialogue	Each time you Score more Combos in a Turn, you gain Momentum	Iedere keer dat je meer Combos Scoort in een Beurt krijg je Momentum
+src/characters/tutorial_character.lua:108	dialogue	Momentum gives you extra Points and Mult on your next Score	Momentum geeft je extra Punten en Maal op je volgende Score
+src/characters/tutorial_character.lua:109	dialogue	Your momentum is reset to zero at the start of each Turn.	Je Momentum gaat terug naar nul aan het begin van je Beurt.
+src/characters/tutorial_character.lua:119	dialogue	You've hit the target!	Je hebt het doel bereikt!
+src/characters/tutorial_character.lua:120	dialogue	BANK your Points to complete the level.	STORT je Punten om het level af te ronden.
+src/characters/tutorial_character.lua:130	dialogue	You made it through the first level!	Je bent door het eerste level heen gekomen!
+src/characters/tutorial_character.lua:131	dialogue	Between levels, you'll visit The Shop, buy Trinkets, Snacks and Spells.\nAll the fun stuff.	Tussen levels bezoek je De Winkel, koop je Sieraden, Snacks, en Spreuken\nAl die leuke dingen.
+src/characters/tutorial_character.lua:155		combo	combo
+src/characters/tutorial_character.lua:156	dialogue	That's a ${combo_label}!	Dat is een ${combo_label}!
+src/characters/tutorial_character.lua:157	dialogue	Select and score it!	Selecteer en scoor!
+src/characters/tutorial_character.lua:169	dialogue	Nice, those Points are safe now.	Mooi, die Punten zijn nu veilig.
+src/characters/tutorial_character.lua:170	dialogue	BANK refilled your Bust meter.	STORT heeft je Blunder-meter bijgevuld.
 src/characters/tutorial_character.lua:173	dialogue	You have $TURNS BANKS left, so make sure you only BANK when you need to!	
 src/characters/tutorial_character.lua:186	dialogue	Red sides are BUST! If you roll too many, you will WIPE!	
 src/characters/tutorial_character.lua:192		<- BUST meter here	
@@ -200,7 +200,7 @@ src/coloured_text.lua:16		turn	beurt
 src/coloured_text.lua:20		turns	beurten
 src/coloured_text.lua:24 (+2 others)		bank	stort
 src/coloured_text.lua:31 (+5 others)		points	punten
-src/coloured_text.lua:35 (+9 others)		mult	mult
+src/coloured_text.lua:35 (+9 others)		mult	maal
 src/coloured_text.lua:39 (+7 others)		bonus	bonus
 src/coloured_text.lua:43 (+5 others)		debust	ontblunder
 src/coloured_text.lua:46 (+17 others)		pig	varken
