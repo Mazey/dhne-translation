@@ -1,4 +1,4 @@
-location	extra context	en	translation
+location	extra context	en	nl
 src/are_you_sure.lua:14 (+3 others)		Are you sure?	Weet je het zeker?
 src/are_you_sure.lua:15 (+13 others)		yes	ja
 src/are_you_sure.lua:17		really?	echt?
