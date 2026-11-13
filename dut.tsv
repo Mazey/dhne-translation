@@ -79,68 +79,68 @@ src/characters/god.lua:243		give me everything	geef alles aan mij
 src/characters/god.lua:247		do you have what it takes?	heb je wat nodig is?
 src/characters/god.lua:251		you are never getting out of here	jij komt hier nooit meer uit
 src/characters/god.lua:295		i always believed in you	ik heb altijd in je geloofd
-src/characters/guy.lua:2		Guy	
-src/characters/guy.lua:34		Eyes Wide Open	
-src/characters/guy.lua:35		see the stars	
-src/characters/guy.lua:53	dialogue	Reach level 7 to break free!	
-src/characters/guy.lua:55	dialogue	Reach level 10 to break free!	
-src/characters/guy.lua:80	dialogue	Keep riding?	
-src/characters/guy.lua:82	dialogue	I'll revive you for $cost ¤ and one passive item	
-src/characters/guy.lua:85 (+5 others)		Yes	
-src/characters/guy.lua:88	dialogue	Live your truth	
-src/characters/guy.lua:102	dialogue	Ride on	
-src/characters/hotdog.lua:2		Hot Dawg	
-src/characters/king_fetus.lua:2		King Foetus	
-src/characters/king_fetus.lua:38		Foetus 2	
-src/characters/king_fetus.lua:39		development	
-src/characters/king_fetus.lua:58	dialogue	Reach level 7 to escape!	
-src/characters/king_fetus.lua:59 (+1 others)	dialogue	goo goo gaa gaa	
-src/characters/king_fetus.lua:61	dialogue	Reach level 10 to escape!	
-src/characters/king_fetus.lua:81	dialogue	go more?	
-src/characters/king_fetus.lua:83	dialogue	revive for $cost ¤ and 1 max bust	
-src/characters/king_fetus.lua:102	dialogue	glob gob	
-src/characters/liz.lua:2 (+1 others)		Liz	
-src/characters/liz.lua:30		Liz 2	
-src/characters/liz.lua:38		Halo	
-src/characters/liz.lua:39		glow up	
-src/characters/liz.lua:73	dialogue	Hey, my love	
-src/characters/liz.lua:74	dialogue	Remember, ${count} levels and you're out of here!	
-src/characters/liz.lua:84	dialogue	Ah well	
-src/characters/liz.lua:85	dialogue	You'll get it next time!	
-src/characters/liz.lua:113	dialogue	...Want to keep going?	
-src/characters/liz.lua:115	dialogue	I'll revive you for $cost ¤ and one die	
-src/characters/liz.lua:121	dialogue	Your loss :)	
-src/characters/liz.lua:140	dialogue	Hope it's worth it!	
-src/characters/mushroom.lua:2		Srop M.	
-src/characters/saimi.lua:2		Saimi	
-src/characters/saimi.lua:31 (+2 others)	dialogue	Moi	
-src/characters/saimi.lua:32	dialogue	Get past level ${count}, and you're free.	
-src/characters/saimi.lua:50	dialogue	Keep going keep going	
-src/characters/saimi.lua:52 (+1 others)	dialogue	I'll revive you for $cost ¤ and difficulty increase.	
-src/characters/saimi.lua:58	dialogue	Lame :)	
-src/characters/saimi.lua:71	dialogue	Let's Go!	
-src/characters/shirin.lua:2		Shirin	
-src/characters/shirin.lua:49 (+1 others)	dialogue	Oh. You’re mine now.	
-src/characters/shirin.lua:50	dialogue	I’ll let you go if you reach level 7.	
-src/characters/shirin.lua:53	dialogue	I’ll let you go if you reach level 10.	
-src/characters/shirin.lua:179	dialogue	Feeling lucky?	
-src/characters/shirin.lua:181	dialogue	I'll let you toss a coin to revive you for $cost ¤	
-src/characters/shirin.lua:187	dialogue	RIP	
-src/characters/shirin.lua:197	dialogue	Bad luck...	
-src/characters/shirin.lua:205	dialogue	Good luck!	
-src/characters/tooth_fairy.lua:2		Tooth Fairy	
-src/characters/tooth_fairy.lua:40	dialogue	Reach level 7 and I'll leave your teeth alone.	
-src/characters/tooth_fairy.lua:42	dialogue	Reach level 10 and I'll leave your teeth alone.	
-src/characters/tutorial_character.lua:38	dialogue	Hi! Welcome!	
-src/characters/tutorial_character.lua:39	dialogue	You're dead!	
-src/characters/tutorial_character.lua:40	dialogue	Or asleep!	
-src/characters/tutorial_character.lua:41	dialogue	... Either way, you won't remember this :)	
-src/characters/tutorial_character.lua:42	dialogue	Now let's play.\nRoll the dice.	
-src/characters/tutorial_character.lua:59	dialogue	Good. You gained some points.	
-src/characters/tutorial_character.lua:60	dialogue	They're not safe until you BANK them.	
-src/characters/tutorial_character.lua:61	dialogue	You have ${TURNS} Turns to reach your goal.\nBANKing ends your Turn.	
-src/characters/tutorial_character.lua:65	dialogue	Bigger combos give you exponentially bigger rewards.	
-src/characters/tutorial_character.lua:69		<- See what combos are available up here	
+src/characters/guy.lua:2		Guy	Guy
+src/characters/guy.lua:34		Eyes Wide Open	Ogen Wijd Open
+src/characters/guy.lua:35		see the stars	zie de sterren
+src/characters/guy.lua:53	dialogue	Reach level 7 to break free!	Haal level 7 om vrij te komen!
+src/characters/guy.lua:55	dialogue	Reach level 10 to break free!	Haal level 10 om vrij te komen!
+src/characters/guy.lua:80	dialogue	Keep riding?	Doorsjeezen?
+src/characters/guy.lua:82	dialogue	I'll revive you for $cost ¤ and one passive item	Ik kan je weer opknappen voor $cost ¤ en een passieve item
+src/characters/guy.lua:85 (+5 others)		Yes	Ja
+src/characters/guy.lua:88	dialogue	Live your truth	Jouw keuze
+src/characters/guy.lua:102	dialogue	Ride on	Dan sjeezen we door
+src/characters/hotdog.lua:2		Hot Dawg	Hot Dawg
+src/characters/king_fetus.lua:2		King Foetus	Koning Foetus
+src/characters/king_fetus.lua:38		Foetus 2	Foetus 2
+src/characters/king_fetus.lua:39		development	ontwikkeling
+src/characters/king_fetus.lua:58	dialogue	Reach level 7 to escape!	Haal level 7 om te ontsnappen!
+src/characters/king_fetus.lua:59 (+1 others)	dialogue	goo goo gaa gaa	goo goo gaa gaa
+src/characters/king_fetus.lua:61	dialogue	Reach level 10 to escape!	Haal level 10 om te ontsnappen!
+src/characters/king_fetus.lua:81	dialogue	go more?	beetje meer?
+src/characters/king_fetus.lua:83	dialogue	revive for $cost ¤ and 1 max bust	breng jezelf weer bij voor $cost ¤ een 1 max blunder
+src/characters/king_fetus.lua:102	dialogue	glob gob	glob glob
+src/characters/liz.lua:2 (+1 others)		Liz	Liz
+src/characters/liz.lua:30		Liz 2	Liz 2
+src/characters/liz.lua:38		Halo	Halo
+src/characters/liz.lua:39		glow up	glow up
+src/characters/liz.lua:73	dialogue	Hey, my love	Hey, schat
+src/characters/liz.lua:74	dialogue	Remember, ${count} levels and you're out of here!	Niet vergeten, ${count} levels en dan ben je klaar
+src/characters/liz.lua:84	dialogue	Ah well	Achja
+src/characters/liz.lua:85	dialogue	You'll get it next time!	Volgende keer beter!
+src/characters/liz.lua:113	dialogue	...Want to keep going?	...Wil je nog door?
+src/characters/liz.lua:115	dialogue	I'll revive you for $cost ¤ and one die	Ik kan je weer opknappen voor $cost ¤ en een dobbelsteen
+src/characters/liz.lua:121	dialogue	Your loss :)	Zelf weten :)
+src/characters/liz.lua:140	dialogue	Hope it's worth it!	Hoop dat het waard is!
+src/characters/mushroom.lua:2		Srop M.	Srop M.
+src/characters/saimi.lua:2		Saimi	Saimi
+src/characters/saimi.lua:31 (+2 others)	dialogue	Moi	Moi
+src/characters/saimi.lua:32	dialogue	Get past level ${count}, and you're free.	Na level ${count} ben je vrij
+src/characters/saimi.lua:50	dialogue	Keep going keep going	Door door door
+src/characters/saimi.lua:52 (+1 others)	dialogue	I'll revive you for $cost ¤ and difficulty increase.	Ik kan je weer opknappen voor $cost ¤ en een hogere moeilijkheid
+src/characters/saimi.lua:58	dialogue	Lame :)	Laf :)
+src/characters/saimi.lua:71	dialogue	Let's Go!	Hoppa!
+src/characters/shirin.lua:2		Shirin	Shirin
+src/characters/shirin.lua:49 (+1 others)	dialogue	Oh. You’re mine now.	Oh. Je bent van mij nu
+src/characters/shirin.lua:50	dialogue	I’ll let you go if you reach level 7.	Ik laat je gaan als je level 7 haalt
+src/characters/shirin.lua:53	dialogue	I’ll let you go if you reach level 10.	Ik laat je gaan als je level 10 haalt
+src/characters/shirin.lua:179	dialogue	Feeling lucky?	Tijd om met je neus in de boter te vallen?
+src/characters/shirin.lua:181	dialogue	I'll let you toss a coin to revive you for $cost ¤	Van mij mag je een munt opgooien om je weer op te knappen voor $cost ¤
+src/characters/shirin.lua:187	dialogue	RIP	RIP
+src/characters/shirin.lua:197	dialogue	Bad luck...	Onsucces...
+src/characters/shirin.lua:205	dialogue	Good luck!	Succes!
+src/characters/tooth_fairy.lua:2		Tooth Fairy	Tandenfee
+src/characters/tooth_fairy.lua:40	dialogue	Reach level 7 and I'll leave your teeth alone.	Haal level 7 en ik zal je tanden met rust laten
+src/characters/tooth_fairy.lua:42	dialogue	Reach level 10 and I'll leave your teeth alone.	Haal level 10 en ik zal je tanden met rust laten
+src/characters/tutorial_character.lua:38	dialogue	Hi! Welcome!	Hoi! Welkom!
+src/characters/tutorial_character.lua:39	dialogue	You're dead!	Je bent dood!
+src/characters/tutorial_character.lua:40	dialogue	Or asleep!	Of aan het slapen!
+src/characters/tutorial_character.lua:41	dialogue	... Either way, you won't remember this :)	... In elk geval, je gaat dit toch niet meer onthouden :)
+src/characters/tutorial_character.lua:42	dialogue	Now let's play.\nRoll the dice.	Laten we maar spelen.\nGooi de dobbelsteen.
+src/characters/tutorial_character.lua:59	dialogue	Good. You gained some points.	Top. Je hebt wat punten gekregen.
+src/characters/tutorial_character.lua:60	dialogue	They're not safe until you BANK them.	Ze zijn nog niet veilig totdat je ze STORT.
+src/characters/tutorial_character.lua:61	dialogue	You have ${TURNS} Turns to reach your goal.\nBANKing ends your Turn.	Je hebt ${TURNS} beurten om het doel te halen.\nSTORTen eindigt je Beurt.
+src/characters/tutorial_character.lua:65	dialogue	Bigger combos give you exponentially bigger rewards.	Grotere combos geven je exponentieel grotere beloningen.
+src/characters/tutorial_character.lua:69		<- See what combos are available up here	<- Zie hierboven welke combos mogelijk zijn
 src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!	
 src/characters/tutorial_character.lua:95	dialogue	Oh also, you can hold and drag Left Click to box select	
 src/characters/tutorial_character.lua:107	dialogue	Each time you Score more Combos in a Turn, you gain Momentum	
@@ -191,32 +191,32 @@ src/characters/wizard.lua:51		Wizard 3
 src/characters/wizard.lua:70	dialogue	Get to level 7, and you're free.	
 src/characters/wizard.lua:73	dialogue	Get to level 10, and you're free.	
 src/characters/wizard.lua:189	dialogue	...Want to see a magic trick?	
-src/characters/wizard.lua:197	dialogue	Boo :)	
-src/characters/wizard.lua:210	dialogue	Tada!	
-src/coloured_text.lua:8 (+115 others)		bust	
-src/coloured_text.lua:12		wipe	
-src/coloured_text.lua:14		instant	
-src/coloured_text.lua:16		turn	
-src/coloured_text.lua:20		turns	
-src/coloured_text.lua:24 (+2 others)		bank	
-src/coloured_text.lua:31 (+5 others)		points	
-src/coloured_text.lua:35 (+9 others)		mult	
-src/coloured_text.lua:39 (+7 others)		bonus	
-src/coloured_text.lua:43 (+5 others)		debust	
-src/coloured_text.lua:46 (+17 others)		pig	
-src/coloured_text.lua:49 (+10 others)	ui	power	
-src/coloured_text.lua:52		golden	
-src/coloured_text.lua:58 (+3 others)		coin	
-src/coloured_text.lua:61		coins	
-src/coloured_text.lua:73		shield	
-src/coloured_text.lua:77 (+7 others)		skip	
-src/coloured_text.lua:80 (+2 others)		mirror	
-src/coloured_text.lua:83 (+23 others)		cracked	
-src/coloured_text.lua:86 (+2 others)		hardy	
-src/coloured_text.lua:89 (+5 others)		doom	
-src/coloured_text.lua:92 (+1 others)		negative	
-src/coloured_text.lua:95 (+10 others)		stuck	
-src/coloured_text.lua:98 (+2 others)		empty	
+src/characters/wizard.lua:197	dialogue	Boo :)	Boe :)
+src/characters/wizard.lua:210	dialogue	Tada!	Tada!
+src/coloured_text.lua:8 (+115 others)		bust	blunder
+src/coloured_text.lua:12		wipe	sneuvel
+src/coloured_text.lua:14		instant	gelijk
+src/coloured_text.lua:16		turn	beurt
+src/coloured_text.lua:20		turns	beurten
+src/coloured_text.lua:24 (+2 others)		bank	stort
+src/coloured_text.lua:31 (+5 others)		points	punten
+src/coloured_text.lua:35 (+9 others)		mult	mult
+src/coloured_text.lua:39 (+7 others)		bonus	bonus
+src/coloured_text.lua:43 (+5 others)		debust	ontblunder
+src/coloured_text.lua:46 (+17 others)		pig	varken
+src/coloured_text.lua:49 (+10 others)	ui	power	kracht
+src/coloured_text.lua:52		golden	gouden
+src/coloured_text.lua:58 (+3 others)		coin	munt
+src/coloured_text.lua:61		coins	munten
+src/coloured_text.lua:73		shield	schild
+src/coloured_text.lua:77 (+7 others)		skip	overslaan
+src/coloured_text.lua:80 (+2 others)		mirror	spiegel
+src/coloured_text.lua:83 (+23 others)		cracked	gebarsten
+src/coloured_text.lua:86 (+2 others)		hardy	taai
+src/coloured_text.lua:89 (+5 others)		doom	doem
+src/coloured_text.lua:92 (+1 others)		negative	negatief
+src/coloured_text.lua:95 (+10 others)		stuck	vast
+src/coloured_text.lua:98 (+2 others)		empty	leeg
 src/coloured_text.lua:136		clear	
 src/display_loc.lua:3		Normal	
 src/display_loc.lua:4		Pixel	
@@ -1548,17 +1548,17 @@ src/ui/game_setup_options.lua:29	ui	increase difficulty by 3	verhoog moeilijkhei
 src/ui/help_screen.lua:18	ui	HELP ME!	HELP MIJ!
 src/ui/help_screen.lua:74	ui	INFO DUMP :)	INFO DUMP :)
 src/ui/help_screen.lua:111 (+1 others)	ui	BUST	BLUNDER
-src/ui/help_screen.lua:112	ui	Each die has a red Bust side.\nRolling Bust side reduces your Bust meter.\n\nIf Bust meter goes to 0 you WIPE.\nAll unbanked points are gone, turn ends.	Elke dobbelsteen heeft een rode Blunder-zijde.\nAls je een Blunder gooit, neemt je Blunder-meter af.\n\nAls de Blunder-meter 0 bereikt, ben je uitgeschakeld.\nAlle nog niet veiliggestelde punten gaan verloren en de beurt eindigt.
-src/ui/help_screen.lua:115	ui	ALL BUST - INSTANT WIPE	VOLLEDIGE BLUNDER - GELIJK UITGESCHAKELD
-src/ui/help_screen.lua:116	ui	The tricky part!\n\nIf all dice you rolled at once show Bust,\nyou WIPE instantly, regardless of the Bust meter.\n\nExample: 3 out of 3 dice rolled Bust	Het geniepige stukje!\n\nAls alle dobbelstenen die je tegelijkertijd hebt geworpen Blunders zijn,\n ben je gelijk UITGESCHAKELD, ongeacht de stand van de Blunder-meter.\n\nVoorbeeld: 3 van de 3 geworpen dobbelstenen zijn Blunders
-src/ui/help_screen.lua:119	ui	BANKING	
+src/ui/help_screen.lua:112	ui	Each die has a red Bust side.\nRolling Bust side reduces your Bust meter.\n\nIf Bust meter goes to 0 you WIPE.\nAll unbanked points are gone, turn ends.	Elke dobbelsteen heeft een rode Blunder-zijde.\nAls je een Blunder gooit, neemt je Blunder-meter af.\n\nAls de Blunder-meter 0 bereikt, sneuvel je.\nAlle nog niet veiliggestelde punten gaan verloren en de beurt eindigt.
+src/ui/help_screen.lua:115	ui	ALL BUST - INSTANT WIPE	VOLLEDIGE BLUNDER - GELIJK GESNEUVELD
+src/ui/help_screen.lua:116	ui	The tricky part!\n\nIf all dice you rolled at once show Bust,\nyou WIPE instantly, regardless of the Bust meter.\n\nExample: 3 out of 3 dice rolled Bust	Het geniepige stukje!\n\nAls alle dobbelstenen die je tegelijkertijd hebt geworpen Blunders zijn,\n ben je gelijk GESNEUVELD, ongeacht de stand van de Blunder-meter.\n\nVoorbeeld: 3 van de 3 geworpen dobbelstenen zijn Blunders
+src/ui/help_screen.lua:119	ui	BANKING	STORTEN
 src/ui/help_screen.lua:120	ui	BANK to lock in your points and refill the Bust meter.\nEach BANK ends your Turn.	STORT om je punten veilig te stellen en de Blunder-meter opnieuw te vullen.\n Elke STORT beëindigt je beurt.
 src/ui/help_screen.lua:123	ui	TURN	BEURT
 src/ui/help_screen.lua:124	ui	Each level you get limited Turns.\nTurns end when you BANK or WIPE.\nWhen you run out of Turns the game is over.\nBust meter and Power charge refill each turn.	In elk level krijg je een beperkt aantal beurten.\nBeurten eindigen wanneer je STORT of uit bent geschakeld.\nWanneer al je beurten om zijn, is het spel afgelopen.\nBlunder-meter en krachtlading worden elke beurt hervult.
 src/ui/help_screen.lua:129	ui	SCORING	PUNTENTELLING
 src/ui/help_screen.lua:130	ui	Select dice that form a combo and score them.\nPoints x Mult = Score.\nBigger combos score exponentially more.\nScore multiple combos in one Turn to build Momentum for extra Points and Mult	Selecteer dobbelstenen die een combinatie vormen en tel ze.\nPunten x Mult = Score.\nGrotere combinaties leveren een exponentieel grotere score op.\n Scoor meerdere combos in één beurt om momentum op te bouwen voor extra Punten en Mult
-src/ui/help_screen.lua:133	ui	TRINKETS, SPELLS & SNACKS	
-src/ui/help_screen.lua:134	ui	- Trinkets are passive, they trigger automatically.\n- Spells are one time use!\n- Snacks are dragged onto a die to add special effects.	- Prulletjes zijn passied, zij worden automatisch geactiveerd.\n- Spreuken zijn voor eenmalig gebruik!\n- Tussendoortjes sleep je naar een dobbelsteen toe om speciale effecten toe te voegen.
+src/ui/help_screen.lua:133	ui	TRINKETS, SPELLS & SNACKS	PRULLETJES, SPREUKEN & TUSSENDOORTJES
+src/ui/help_screen.lua:134	ui	- Trinkets are passive, they trigger automatically.\n- Spells are one time use!\n- Snacks are dragged onto a die to add special effects.	- Prulletjes zijn passief, zij worden automatisch geactiveerd.\n- Spreuken zijn voor eenmalig gebruik!\n- Tussendoortjes sleep je naar een dobbelsteen toe om speciale effecten toe te voegen.
 src/ui/help_screen.lua:137	ui	CHARACTER POWER	PERSONAGEKRACHT
 src/ui/help_screen.lua:138	ui	Each character has a unique Power. Use them to modify dice, reduce risk and get better combos.\n\nPower recharges each turn or with die side effects and items.	Elke personage heeft een unieke kracht. Gebruik ze om een dobbelsteen te veranderen, risico te verminderen en betere combos te krijgen.\n\n Kracht laadt elke beurt op of met effecten van dobbelstenen en items.
 src/ui/help_screen.lua:141	ui	BASIC TACTICS	BASIS-TACTIEKEN
