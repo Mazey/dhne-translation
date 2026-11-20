@@ -170,7 +170,7 @@ src/characters/tutorial_character.lua:244	dialogue	That's a WIPE! All unbanked P
 src/characters/tutorial_character.lua:245	dialogue	Don't worry, it happens.	Geen zorgen, het gebeurt.
 src/characters/tutorial_character.lua:247	dialogue	Next time you should BANK before that happens :)	De volgende keer zou je moeten STORTen als dat gebeurt :)
 src/characters/tutorial_character.lua:260	dialogue	Ah. Yeah...	Ah. Ja...
-src/characters/tutorial_character.lua:261	dialogue	Instant WIPE	Gelijk GESNEUVELD
+src/characters/tutorial_character.lua:261	dialogue	Instant WIPE	Directe SNEUVEL
 src/characters/tutorial_character.lua:262	dialogue	When ALL DICE you rolled roll BUST, your Turn is over straight away.	Wanneer ALLE DOBBELSTENEN die je gooit BLUNDERS zijn, is je Beurt meteen voorbij.
 src/characters/tutorial_character.lua:263	dialogue	Rolling a single die makes that very likely, but it can happen with any roll!	Het gebeurt snel als je maar één dobbelsteen gooit, maar het kan bij elke worp gebeuren!
 src/characters/tutorial_character.lua:276	dialogue	This is your last turn.	Dit is je laatste beurt.
@@ -195,7 +195,7 @@ src/characters/wizard.lua:197	dialogue	Boo :)	Boe :)
 src/characters/wizard.lua:210	dialogue	Tada!	Tada!
 src/coloured_text.lua:8 (+115 others)		bust	blunder
 src/coloured_text.lua:12		wipe	sneuvel
-src/coloured_text.lua:14		instant	gelijk
+src/coloured_text.lua:14		instant	direct
 src/coloured_text.lua:16		turn	beurt
 src/coloured_text.lua:20		turns	beurten
 src/coloured_text.lua:24 (+2 others)		bank	stort
@@ -217,166 +217,167 @@ src/coloured_text.lua:89 (+5 others)		doom	doem
 src/coloured_text.lua:92 (+1 others)		negative	negatief
 src/coloured_text.lua:95 (+10 others)		stuck	vast
 src/coloured_text.lua:98 (+2 others)		empty	leeg
-src/coloured_text.lua:136		clear	
-src/display_loc.lua:3		Normal	
-src/display_loc.lua:4		Pixel	
-src/endings/alley.lua:56 (+1 others)		hit that shit	
-src/endings/alley.lua:101	dialogue	at least the tooth fairy will come	
-src/endings/alley.lua:102	dialogue	i haven't lost my baby teeth yet	
-src/endings/alley.lua:103	dialogue	because i don't have baby teeth	
-src/endings/alley.lua:104 (+1 others)	dialogue	because i am god	
-src/endings/alley.lua:108	dialogue	being late to the dentist is always a bit risky	
-src/endings/alley.lua:109	dialogue	have you been brushing?	
-src/endings/alley.lua:110	dialogue	i don't have to brush my teeth	
-src/endings/boardroom.lua:29		hit da bricks	
-src/endings/boardroom.lua:163	dialogue	honestly	
-src/endings/boardroom.lua:164	dialogue	that wasn't very stonks of you	
-src/endings/boardroom.lua:165	dialogue	but it was brave	
-src/endings/cool_fish.lua:29		lets hit that shit	
-src/endings/cool_fish.lua:132	dialogue	wheels can't take you away from me	
-src/endings/cool_fish.lua:134	dialogue	pretty sick whip tho ngl	
-src/endings/dog.lua:67		throw that shit	
-src/endings/dog.lua:129	dialogue	what a good boy	
-src/endings/dog.lua:130	dialogue	i am neither good nor bad	
-src/endings/god.lua:65	dialogue	it was very brave of you to come back	
-src/endings/god.lua:66	dialogue	again	
-src/endings/god.lua:68	dialogue	and i am god	
-src/endings/guy.lua:158	dialogue	have you looked into a mirror recently?	
-src/endings/guy.lua:159	dialogue	what do you see?	
-src/endings/guy.lua:160	dialogue	i see my bravest child	
-src/endings/hotdog.lua:29		absolutely hit that shit	
-src/endings/hotdog.lua:75	dialogue	finally some good fucking food	
-src/endings/king_fetus.lua:52		nope nope nope	
-src/endings/liz.lua:129	dialogue	how did you do?	
-src/endings/liz.lua:130	dialogue	in the test, i mean	
-src/endings/liz.lua:131	dialogue	we all pass\nin one way or another	
-src/endings/liz.lua:132	dialogue	eventually	
-src/endings/marooned.lua:81	dialogue	i am your salvation	
-src/endings/marooned.lua:82	dialogue	you are not drowning	
-src/endings/party.lua:130	dialogue	You finished the Shallows!	
-src/endings/party.lua:131	dialogue	Unlock the next Depth from Star Guts for a bigger challenge.	
-src/endings/tooth_fairy.lua:129	dialogue	so the tooth fairy smokes now	
-src/endings/tooth_fairy.lua:130	dialogue	i knew it	
-src/endings/tooth_fairy.lua:132	dialogue	i know everything	
-src/entities/bad_teeth_mode.lua:35		Bad Teeth: ${count}/${limit}	
-src/entities/buttons_clump.lua:23 (+6 others)		inactive	
-src/entities/buttons_clump.lua:51 (+4 others)		score	
-src/entities/buttons_clump.lua:53 (+4 others)		deselect	
-src/entities/buttons_clump.lua:55 (+4 others)		select	
-src/entities/buttons_clump.lua:107 (+1 others)		Score	
-src/entities/buttons_clump.lua:108		Scoring adds points and clears all dice in the combo	
-src/entities/buttons_clump.lua:110		Select All	
-src/entities/buttons_clump.lua:111		Select your dice to score them or roll them	
-src/entities/buttons_clump.lua:113		Deselect	
-src/entities/buttons_clump.lua:114		Deselect everything to make a new selection	
-src/entities/buttons_clump.lua:182 (+4 others)		blank	
-src/entities/buttons_clump.lua:231 (+1 others)		Roll	
-src/entities/buttons_clump.lua:234		Roll just the selected dice	
-src/entities/buttons_clump.lua:236		Roll Blank	
-src/entities/buttons_clump.lua:237		Roll all blank dice	
-src/entities/buttons_clump.lua:239		Roll All	
-src/entities/buttons_clump.lua:240		Re-roll all your dice	
-src/entities/buttons_clump.lua:323		any bust:\ninstant wipe:	
-src/entities/buttons_clump.lua:380 (+2 others)		no combo	
-src/entities/cycle_baby.lua:7		Cycle Baby	
-src/entities/cycle_baby.lua:13		Cycle!	
-src/entities/dice.lua:208		Bust	
-src/entities/dice.lua:217		Bonus\n+100 Points when scored	
-src/entities/dice.lua:227		Mult\n+2 Mult when scored	
-src/entities/dice.lua:237		Debust\n-1 Bust and -1 ♥ when scored	
-src/entities/dice.lua:246		Pig\nReroll for instant points	
-src/entities/dice.lua:255		Negative\n-50 Points when scored	
-src/entities/dice.lua:265		Power\nRecharge power when scored	
-src/entities/dice.lua:274		Stuck\nCan't be rerolled	
-src/entities/dice.lua:283		Golden\n+1¥ when scored	
-src/entities/dice.lua:301		Skip\nRolls to the next value	
-src/entities/dice.lua:310		Mirror\nCopies value of next clicked die	
-src/entities/dice.lua:319		Cracked\n -1 ♥ when rolled	
-src/entities/dice.lua:329		Empty\nCan't be rolled	
-src/entities/dice.lua:338		Hardy\n+1 ♥ when rolled	
-src/entities/dice.lua:348		Doom\n-3♥ when rolled	
-src/entities/dice.lua:384 (+1 others)		colours	
-src/entities/dice.lua:392		pattern	
-src/entities/dice.lua:623		CRACK	
-src/entities/dice.lua:1625 (+1 others)		puke	
-src/entities/dice.lua:1648		Purged +	
-src/entities/dice.lua:1648		pukes	
-src/entities/dice.lua:2092 (+1 others)		chomp	
-src/entities/dice.lua:2216		permanent	
-src/entities/dice_ending.lua:132		goop	
-src/entities/dice_ending.lua:324		sad	
-src/entities/dice_ending.lua:327 (+2 others)		cheer	
-src/entities/dice_peek.lua:233		$value\n$effect	
-src/entities/dice_peek.lua:245		impatient	
-src/entities/dice_peek.lua:245		Impatient	
-src/entities/dice_peek.lua:245		Nudges up everytime anything is rolled.	
-src/entities/dice_peek.lua:246 (+1 others)		ghost	
-src/entities/dice_peek.lua:246		Disappears after being scored.	
-src/entities/dice_peek.lua:247		cycle	
-src/entities/dice_peek.lua:247		Cycle	
-src/entities/dice_peek.lua:247		Rolls to its next value.\nDamage on score.	
-src/entities/dice_peek.lua:259 (+1 others)		Scores x	
-src/entities/dice_peek.lua:260		Scores multiple times.	
-src/entities/dice_peek.lua:268		♥	
-src/entities/dice_peek.lua:273		Dice live forever	
-src/entities/dice_peek.lua:273		Dice are mortal	
-src/entities/dice_pick.lua:7		Swap Dice	
-src/entities/dice_pick.lua:20		Swap	
-src/entities/dice_pick.lua:21 (+1 others)		swap	
-src/entities/dice_pick.lua:28		Skip	
-src/entities/dice_pick.lua:79		give	
-src/entities/dice_pick.lua:79		take	
-src/entities/die_baby.lua:7		Die Baby	
-src/entities/dupe_baby.lua:7		Dupe Baby	
-src/entities/dupe_baby.lua:49		Duplicated!	
-src/entities/encounter_timeline.lua:235		VICTORY	
-src/entities/encounter_timeline.lua:242		FIGHT	
-src/entities/encounter_timeline.lua:280		Goal Reached	
-src/entities/encounter_timeline.lua:338		progress	
-src/entities/encounter_timeline.lua:575		GOAL REACHED	
-src/entities/encounter_timeline.lua:576		${to_go} TO GO	
-src/entities/eye_baby.lua:7		Eye Baby	
-src/entities/eye_baby.lua:27		eye	
-src/entities/eye_baby.lua:33		Puked 	
-src/entities/eye_baby.lua:33		eye!	
-src/entities/eye_baby.lua:33		eyes!	
-src/entities/fish_spawner.lua:71		fish border	
-src/entities/fish_spawner.lua:195 (+1 others)		fish	
-src/entities/fish_spawner.lua:215		Cool Fish Available	
-src/entities/fish_spawner.lua:247		bounds	
-src/entities/ghost.lua:31 (+3 others)		float	
-src/entities/ghost.lua:32 (+1 others)		near	
-src/entities/ghost.lua:35 (+1 others)		die	
-src/entities/god.lua:12		body	
-src/entities/god_shop.lua:68		CHOOSE	
-src/entities/god_shop.lua:106 (+2 others)		food	
-src/entities/god_shop.lua:107 (+2 others)		spell	
-src/entities/god_shop.lua:477		reroll %d ¤	
-src/entities/guts_background.lua:5		clouds	
-src/entities/guts_background.lua:329		net	
-src/entities/guts_background.lua:374		multiply	
-src/entities/item.lua:51		edible	
-src/entities/item.lua:498		a to use spells	
-src/entities/item.lua:500		right click to use spells	
-src/entities/item.lua:503		drag snacks over rolled dice	
-src/entities/particle.lua:175 (+1 others)		anim	
-src/entities/particle.lua:178		particle	
-src/entities/power_ui.lua:94	ui	Use	
-src/entities/power_ui.lua:127	ui	Power recharges each turn\nSelect a die with Left Click then press this button to use it	
-src/entities/shop.lua:82		TAB: ${total} ¥	
-src/entities/shop.lua:114		Dice $count/$limit	
-src/entities/shop.lua:141		Trinkets $count/$limit	
-src/entities/shop.lua:168		Actives $count/$limit	
-src/entities/shop.lua:187		$value¥	
-src/entities/shop.lua:200		draggables	
-src/entities/shop.lua:1196		cant sell eternal	
-src/entities/shop.lua:1208		sell cursed	
-src/entities/shop.lua:1220		too many dice	
-src/entities/shop.lua:1232		too many trinkets	
-src/entities/shop.lua:1246		pay up	
-src/entities/shop.lua:1246		take change	
-src/entities/shop.lua:1309		bye	
-src/entities/shop.lua:1354		Reroll - ${current_cost}¥	
+src/coloured_text.lua:136		clear	zuiver
+src/display_loc.lua:3		Normal	Normaal
+src/display_loc.lua:4		Pixel	Pixel
+src/endings/alley.lua:56 (+1 others)		hit that shit	hit die meuk
+src/endings/alley.lua:101	dialogue	at least the tooth fairy will come	Op z'n minst komt de tandenfee langs
+src/endings/alley.lua:102	dialogue	i haven't lost my baby teeth yet	ik ben mijn melktanden nog niet kwijt
+src/endings/alley.lua:103	dialogue	because i don't have baby teeth	omdat ik geen melktanden heb
+src/endings/alley.lua:104 (+1 others)	dialogue	because i am god	omdat ik god ben
+src/endings/alley.lua:108	dialogue	being late to the dentist is always a bit risky	te laat zijn bij de tandarts is altijd een beetje riskant
+src/endings/alley.lua:109	dialogue	have you been brushing?	poets je wel goed?
+src/endings/alley.lua:110	dialogue	i don't have to brush my teeth	ik hoef mijn tanden niet te poetsen
+src/endings/boardroom.lua:29		hit da bricks	hit die blokken
+src/endings/boardroom.lua:163	dialogue	honestly	effe serieus
+src/endings/boardroom.lua:164	dialogue	that wasn't very stonks of you	dat was niet heel slim van je
+src/endings/boardroom.lua:165	dialogue	but it was brave	maar het was wel dapper
+src/endings/cool_fish.lua:29		lets hit that shit	laten we die meuk hitten
+src/endings/cool_fish.lua:132	dialogue	wheels can't take you away from me	wielen kunnen je niet bij me wegbrengen
+src/endings/cool_fish.lua:134	dialogue	pretty sick whip tho ngl	ziek waggie tho ngl
+src/endings/dog.lua:67		throw that shit	gooi die meuk
+src/endings/dog.lua:129	dialogue	what a good boy	brave jongen
+src/endings/dog.lua:130	dialogue	i am neither good nor bad	ik ben wederom goed noch slecht
+src/endings/god.lua:65	dialogue	it was very brave of you to come back	het was wel dapper van je om terug te komen
+src/endings/god.lua:66	dialogue	again	nogmaals
+src/endings/god.lua:68	dialogue	and i am god	en ik ben god
+src/endings/guy.lua:158	dialogue	have you looked into a mirror recently?	heb je recentelijk in een spiegel gekeken?
+src/endings/guy.lua:159	dialogue	what do you see?	wat zie je?
+src/endings/guy.lua:160	dialogue	i see my bravest child	ik zie mijn dapperste kind
+src/endings/hotdog.lua:29		absolutely hit that shit	uiteraard die meuk hitten
+src/endings/hotdog.lua:75	dialogue	finally some good fucking food	eindelijk wat goede verdomde voeding
+src/endings/king_fetus.lua:52		nope nope nope	nee nee nee
+src/endings/liz.lua:129	dialogue	how did you do?	hoe heb je hem gemaakt?
+src/endings/liz.lua:130	dialogue	in the test, i mean	die toets bedoel ik
+src/endings/liz.lua:131	dialogue	we all pass\nin one way or another	we halen het allemaal\nop de een of andere manier
+src/endings/liz.lua:132	dialogue	eventually	uiteindelijk
+src/endings/marooned.lua:81	dialogue	i am your salvation	ik ben je redding
+src/endings/marooned.lua:82	dialogue	you are not drowning	je bent niet aan het verdrinken
+src/endings/party.lua:130	dialogue	You finished the Shallows!	Je hebt het Ondiepe gehaald!
+src/endings/party.lua:131	dialogue	Unlock the next Depth from Star Guts for a bigger challenge.	Ontgrendel de volgende Diepte van Star Guts voor een grotere uitdaging.
+src/endings/tooth_fairy.lua:129	dialogue	so the tooth fairy smokes now	blijkbaar rookt de tandenfee nu
+src/endings/tooth_fairy.lua:130	dialogue	i knew it	ik wist het
+src/endings/tooth_fairy.lua:132	dialogue	i know everything	ik weet alles
+src/entities/bad_teeth_mode.lua:35		Bad Teeth: ${count}/${limit}	Slechte Tanden: ${count}/${limit}
+src/entities/buttons_clump.lua:23 (+6 others)		inactive	inactief
+src/entities/buttons_clump.lua:51 (+4 others)		score	score
+src/entities/buttons_clump.lua:53 (+4 others)		deselect	deselecteren
+src/entities/buttons_clump.lua:55 (+4 others)		select	selecteren
+src/entities/buttons_clump.lua:107 (+1 others)		Score	Score
+src/entities/buttons_clump.lua:108		Scoring adds points and clears all dice in the combo	Scoren voegt punten toe en maakt alle dobbelstenen in de combo leeg
+src/entities/buttons_clump.lua:110		Select All	Alles Selecteren
+src/entities/buttons_clump.lua:111		Select your dice to score them or roll them	Selecteer je dobbelstenen om ze te scoren of te rollen
+src/entities/buttons_clump.lua:113		Deselect	Deselecteer
+src/entities/buttons_clump.lua:114		Deselect everything to make a new selection	Deselecteer alles om een nieuwe selectie te maken
+src/entities/buttons_clump.lua:182 (+4 others)		blank	blanco
+src/entities/buttons_clump.lua:231 (+1 others)		Roll	Gooi
+src/entities/buttons_clump.lua:234		Roll just the selected dice	Gooi alleen de geselecteerde dobbelstenen
+src/entities/buttons_clump.lua:236		Roll Blank	Gooi blanco
+src/entities/buttons_clump.lua:237		Roll all blank dice	Gooi alle blanco dobbelstenen
+src/entities/buttons_clump.lua:239		Roll All	Gooi Alles
+src/entities/buttons_clump.lua:240		Re-roll all your dice	Gooi al je dobbelstenen opnieuw
+src/entities/buttons_clump.lua:323		any bust:\ninstant wipe:	elke Blunder:\nDirecte SNEUVEL
+src/entities/buttons_clump.lua:380 (+2 others)		no combo	geen combo
+src/entities/cycle_baby.lua:7		Cycle Baby	Cyclus Baby
+src/entities/cycle_baby.lua:13		Cycle!	Cyclus!
+src/entities/dice.lua:208		Bust	Blunder
+src/entities/dice.lua:217		Bonus\n+100 Points when scored	Bonus\n+100 Punten bij scoren
+src/entities/dice.lua:227		Mult\n+2 Mult when scored	Maal\n+2 Vermenigvuldiger bij scoren
+src/entities/dice.lua:237		Debust\n-1 Bust and -1 ♥ when scored	Ontblunder\n-1 Blunder en -1 ♥ bij scoren
+src/entities/dice.lua:246		Pig\nReroll for instant points	Varken\nOpnieuw gooien voor directe punten
+src/entities/dice.lua:255		Negative\n-50 Points when scored	Negatief\n-50 Punten bij scoren
+src/entities/dice.lua:265		Power\nRecharge power when scored	Kracht\nLaad kracht bij scoren
+src/entities/dice.lua:274		Stuck\nCan't be rerolled	Vast\nKan niet opnieuw worden gegooid
+src/entities/dice.lua:283		Golden\n+1¥ when scored	Gouden\n+1¥ bij scoren
+src/entities/dice.lua:301		Skip\nRolls to the next value	Overslaan\nRol naar de volgende waarde
+src/entities/dice.lua:310		Mirror\nCopies value of next clicked die	Spiegel\nKopieert waarde van de volgende aangeklikte dobbelsteen
+src/entities/dice.lua:319		Cracked\n -1 ♥ when rolled	Gebarsten\n-1 ♥ bij het rollen
+src/entities/dice.lua:329		Empty\nCan't be rolled	Leeg\nKan niet worden gegooid
+src/entities/dice.lua:338		Hardy\n+1 ♥ when rolled	Taai\n+1 ♥ bij het rollen
+src/entities/dice.lua:348		Doom\n-3♥ when rolled	Doem\n-3♥ bij het rollen
+src/entities/dice.lua:384 (+1 others)		colours	kleuren
+src/entities/dice.lua:392		pattern	patroon
+src/entities/dice.lua:623		CRACK	BARST
+src/entities/dice.lua:1625 (+1 others)		puke	kotsen
+src/entities/dice.lua:1648		Purged +	Gezuiverd +
+src/entities/dice.lua:1648		pukes	kotst
+src/entities/dice.lua:2092 (+1 others)		chomp	hap
+src/entities/dice.lua:2216		permanent	permanent
+src/entities/dice_ending.lua:132		goop	smurrie
+src/entities/dice_ending.lua:324		sad	verdrietig
+src/entities/dice_ending.lua:327 (+2 others)		cheer	gejuich
+src/entities/dice_peek.lua:233		$value\n$effect	$value\n$effect
+src/entities/dice_peek.lua:245		impatient	ongeduldig
+src/entities/dice_peek.lua:245		Impatient	Ongeduldig
+src/entities/dice_peek.lua:245		Nudges up everytime anything is rolled.	Stijgt elke keer dat er iets wordt gegooid.
+src/entities/dice_peek.lua:246 (+1 others)		ghost	geest
+src/entities/dice_peek.lua:246		Disappears after being scored.	Verdwijnt na het scoren.
+src/entities/dice_peek.lua:247		cycle	cyclus
+src/entities/dice_peek.lua:247		Cycle	Cyclus
+src/entities/dice_peek.lua:247		Rolls to its next value.\nDamage on score.	Gooit naar de volgende waarde.\nSchade bij scoren.
+src/entities/dice_peek.lua:259 (+1 others)		Scores x	Scoort x
+src/entities/dice_peek.lua:260		Scores multiple times.	Scoort meerdere keren.
+src/entities/dice_peek.lua:268		♥	♥
+src/entities/dice_peek.lua:273		Dice live forever	Dobbelstenen leven voor altijd
+src/entities/dice_peek.lua:273		Dice are mortal	Dobbelstenen zijn sterfelijk
+src/entities/dice_pick.lua:7		Swap Dice	Dobbelstenen Ruilen
+src/entities/dice_pick.lua:20		Swap	Ruilen
+src/entities/dice_pick.lua:21 (+1 others)		swap	ruilen
+src/entities/dice_pick.lua:28		Skip	Overslaan
+src/entities/dice_pick.lua:79		give	geven
+src/entities/dice_pick.lua:79		take	nemen
+src/entities/die_baby.lua:7		Die Baby	dobbelsteen Baby
+src/entities/dupe_baby.lua:7		Dupe Baby	Dupliceer Baby	
+src/entities/dupe_baby.lua:49		Duplicated!	Gedupliceerd!
+src/entities/encounter_timeline.lua:235		VICTORY	OVERWINNING
+src/entities/encounter_timeline.lua:242		FIGHT	VECHTEN
+src/entities/encounter_timeline.lua:280		Goal Reached	Doel behaald
+src/entities/encounter_timeline.lua:338		progress	progressie
+src/entities/encounter_timeline.lua:575		GOAL REACHED	DOEL BEHAALD
+src/entities/encounter_timeline.lua:576		${to_go} TO GO	${to_go} TE GAAN
+src/entities/eye_baby.lua:7		Eye Baby	Oog Baby
+src/entities/eye_baby.lua:27		eye	oog
+src/entities/eye_baby.lua:33		Puked 	Gekotst
+src/entities/eye_baby.lua:33		eye!	oog!
+src/entities/eye_baby.lua:33		eyes!	ogen!
+src/entities/fish_spawner.lua:71		fish border	visgrens
+src/entities/fish_spawner.lua:195 (+1 others)		fish	vis
+src/entities/fish_spawner.lua:215		Cool Fish Available	Vette Vissen In De Aanbieding
+src/entities/fish_spawner.lua:247		bounds	grenzen
+src/entities/ghost.lua:31 (+3 others)		float	drijven
+src/entities/ghost.lua:32 (+1 others)		near	nabij
+src/entities/ghost.lua:35 (+1 others)		die	sterven
+src/entities/god.lua:12		body	lichaam
+src/entities/god_shop.lua:68		CHOOSE	KIES
+src/entities/god_shop.lua:106 (+2 others)		food	voedsel
+src/entities/god_shop.lua:107 (+2 others)		spell	spreuk
+src/entities/god_shop.lua:477		reroll %d ¤	vernieuwen %d ¤
+src/entities/guts_background.lua:5		clouds	wolken
+src/entities/guts_background.lua:329		net	net
+src/entities/guts_background.lua:374		multiply	multipliceer
+src/entities/item.lua:51		edible	eetbaar
+src/entities/item.lua:498		a to use spells	a om spreuken te gebruiken
+src/entities/item.lua:500		right click to use spells	rechter muisknop om spreuken te gebruiken
+src/entities/item.lua:503		drag snacks over rolled dice	sleep tussendoortjes over gegooide dobbelstenen
+src/entities/particle.lua:175 (+1 others)		anim	anim
+src/entities/particle.lua:178		particle	deeltje
+src/entities/particle.lua:181		particles	deeltjes
+src/entities/power_ui.lua:94	ui	Use	Gebruiken
+src/entities/power_ui.lua:127	ui	Power recharges each turn\nSelect a die with Left Click then press this button to use it	Kracht laadt elke beurt op\nSelecteer een dobbelsteen met de linker muisknop en druk dan op deze knop om hem te gebruiken
+src/entities/shop.lua:82		TAB: ${total} ¥	BONNETJE: ${total} ¥
+src/entities/shop.lua:114		Dice $count/$limit	Dobbelstenen $count/$limit
+src/entities/shop.lua:141		Trinkets $count/$limit	Prulletjes $count/$limit
+src/entities/shop.lua:168		Actives $count/$limit	Actives $count/$limit
+src/entities/shop.lua:187		$value¥	$value¥
+src/entities/shop.lua:200		draggables	sleepbaren
+src/entities/shop.lua:1196		cant sell eternal	kan eeuwige niet verkopen
+src/entities/shop.lua:1208		sell cursed	verkoop vervloekt
+src/entities/shop.lua:1220		too many dice	te veel dobbelstenen
+src/entities/shop.lua:1232		too many trinkets	te veel prulletjes
+src/entities/shop.lua:1246		pay up	betalen
+src/entities/shop.lua:1246		take change	neem wisselgeld
+src/entities/shop.lua:1309		bye	doei
+src/entities/shop.lua:1354		Reroll - ${current_cost}¥	Vernieuwen - ${current_cost}¥
 src/entities/slot.lua:13 (+1 others)		slot	
 src/entities/tape.lua:27 (+1 others)		spin	
 src/entities/tape.lua:30		shadow	
@@ -1549,7 +1550,7 @@ src/ui/help_screen.lua:18	ui	HELP ME!	HELP MIJ!
 src/ui/help_screen.lua:74	ui	INFO DUMP :)	INFO DUMP :)
 src/ui/help_screen.lua:111 (+1 others)	ui	BUST	BLUNDER
 src/ui/help_screen.lua:112	ui	Each die has a red Bust side.\nRolling Bust side reduces your Bust meter.\n\nIf Bust meter goes to 0 you WIPE.\nAll unbanked points are gone, turn ends.	Elke dobbelsteen heeft een rode Blunder-zijde.\nAls je een Blunder gooit, neemt je Blunder-meter af.\n\nAls de Blunder-meter 0 bereikt, sneuvel je.\nAlle nog niet veiliggestelde punten gaan verloren en de beurt eindigt.
-src/ui/help_screen.lua:115	ui	ALL BUST - INSTANT WIPE	VOLLEDIGE BLUNDER - GELIJK GESNEUVELD
+src/ui/help_screen.lua:115	ui	ALL BUST - INSTANT WIPE	VOLLEDIGE BLUNDER - DIRECTE SNEUVEL
 src/ui/help_screen.lua:116	ui	The tricky part!\n\nIf all dice you rolled at once show Bust,\nyou WIPE instantly, regardless of the Bust meter.\n\nExample: 3 out of 3 dice rolled Bust	Het geniepige stukje!\n\nAls alle dobbelstenen die je tegelijkertijd hebt geworpen Blunders zijn,\n ben je gelijk GESNEUVELD, ongeacht de stand van de Blunder-meter.\n\nVoorbeeld: 3 van de 3 geworpen dobbelstenen zijn Blunders
 src/ui/help_screen.lua:119	ui	BANKING	STORTEN
 src/ui/help_screen.lua:120	ui	BANK to lock in your points and refill the Bust meter.\nEach BANK ends your Turn.	STORT om je punten veilig te stellen en de Blunder-meter opnieuw te vullen.\n Elke STORT beëindigt je beurt.
