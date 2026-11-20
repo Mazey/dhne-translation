@@ -155,42 +155,42 @@ src/characters/tutorial_character.lua:156	dialogue	That's a ${combo_label}!	Dat 
 src/characters/tutorial_character.lua:157	dialogue	Select and score it!	Selecteer en scoor!
 src/characters/tutorial_character.lua:169	dialogue	Nice, those Points are safe now.	Mooi, die Punten zijn nu veilig.
 src/characters/tutorial_character.lua:170	dialogue	BANK refilled your Bust meter.	STORT heeft je Blunder-meter bijgevuld.
-src/characters/tutorial_character.lua:173	dialogue	You have $TURNS BANKS left, so make sure you only BANK when you need to!	
-src/characters/tutorial_character.lua:186	dialogue	Red sides are BUST! If you roll too many, you will WIPE!	
-src/characters/tutorial_character.lua:192		<- BUST meter here	
-src/characters/tutorial_character.lua:206	dialogue	One more BUST and you'll WIPE!	
-src/characters/tutorial_character.lua:207	dialogue	Consider BANKing your points now to keep them safe.	
-src/characters/tutorial_character.lua:219	dialogue	Now that you accumulated some points try banking!	
-src/characters/tutorial_character.lua:220	dialogue	Each time you BANK, you use up a Turn.	
-src/characters/tutorial_character.lua:221	dialogue	When you run out of Turns, the game ends.	
-src/characters/tutorial_character.lua:225		See turns left here ->	
-src/characters/tutorial_character.lua:231		<- Click here to bank	
-src/characters/tutorial_character.lua:242	dialogue	You rolled too many BUSTs!	
-src/characters/tutorial_character.lua:244	dialogue	That's a WIPE! All unbanked Points gone!	
-src/characters/tutorial_character.lua:245	dialogue	Don't worry, it happens.	
-src/characters/tutorial_character.lua:247	dialogue	Next time you should BANK before that happens :)	
-src/characters/tutorial_character.lua:260	dialogue	Ah. Yeah...	
-src/characters/tutorial_character.lua:261	dialogue	Instant WIPE	
-src/characters/tutorial_character.lua:262	dialogue	When ALL DICE you rolled roll BUST, your Turn is over straight away.	
-src/characters/tutorial_character.lua:263	dialogue	Rolling a single die makes that very likely, but it can happen with any roll!	
-src/characters/tutorial_character.lua:276	dialogue	This is your last turn.	
-src/characters/tutorial_character.lua:277	dialogue	You have to go all in now, no point in BANKing early.	
-src/characters/tutorial_character.lua:278	dialogue	You can still do it!	
-src/characters/tutorial_character.lua:288	dialogue	Well, you failed the tutorial.	
-src/characters/tutorial_character.lua:289	dialogue	I'll bring you back this time.	
-src/characters/tutorial_character.lua:293	dialogue	Be better.	
-src/characters/tutorial_character.lua:302	dialogue	Welp.	
-src/characters/tutorial_character.lua:303	dialogue	Pretty good for the first go.	
-src/characters/tutorial_character.lua:305	dialogue	I didn't explain it all but you're a smart cookie.	
-src/characters/tutorial_character.lua:306	dialogue	You can figure out the rest.	
-src/characters/tutorial_character.lua:308	dialogue	I'll see you in the real game.	
-src/characters/tutorial_character.lua:309	dialogue	Remember, luck helps. Judgement matters more.	
-src/characters/wizard.lua:2		Wizard	
-src/characters/wizard.lua:43		Wizard 2	
-src/characters/wizard.lua:51		Wizard 3	
-src/characters/wizard.lua:70	dialogue	Get to level 7, and you're free.	
-src/characters/wizard.lua:73	dialogue	Get to level 10, and you're free.	
-src/characters/wizard.lua:189	dialogue	...Want to see a magic trick?	
+src/characters/tutorial_character.lua:173	dialogue	You have $TURNS BANKS left, so make sure you only BANK when you need to!	Je hebt $TURNS STORTen over, dus zorg dat je alleen STORT als het nodig is!
+src/characters/tutorial_character.lua:186	dialogue	Red sides are BUST! If you roll too many, you will WIPE!	Rode zijn BLUNDERS! Als je er te veel rolt, dan SNEUVEL je!
+src/characters/tutorial_character.lua:192		<- BUST meter here	<- Blunder-meter hier
+src/characters/tutorial_character.lua:206	dialogue	One more BUST and you'll WIPE!	Nog één Blunder en je SNEUVELT!
+src/characters/tutorial_character.lua:207	dialogue	Consider BANKing your points now to keep them safe.	Overweeg om je punten nu STORTen om ze veilig te houden.
+src/characters/tutorial_character.lua:219	dialogue	Now that you accumulated some points try banking!	Nu je wat punten hebt verzameld, probeer ze te STORTen!
+src/characters/tutorial_character.lua:220	dialogue	Each time you BANK, you use up a Turn.	Elke keer dat je STORT, gebruik je een Beurt.
+src/characters/tutorial_character.lua:221	dialogue	When you run out of Turns, the game ends.	Wanneer je geen Beurten meer over hebt, eindigt het spel.
+src/characters/tutorial_character.lua:225		See turns left here ->	Zie hoeveel beurten je nog over hebt hier ->
+src/characters/tutorial_character.lua:231		<- Click here to bank	<- Klik hier om te STORTen
+src/characters/tutorial_character.lua:242	dialogue	You rolled too many BUSTs!	Je hebt te veel BLUNDERS gegooid!
+src/characters/tutorial_character.lua:244	dialogue	That's a WIPE! All unbanked Points gone!	Dat is een SNEUVEL! Alle niet gestortte Punten zijn verloren!
+src/characters/tutorial_character.lua:245	dialogue	Don't worry, it happens.	Geen zorgen, het gebeurt.
+src/characters/tutorial_character.lua:247	dialogue	Next time you should BANK before that happens :)	De volgende keer zou je moeten STORTen als dat gebeurt :)
+src/characters/tutorial_character.lua:260	dialogue	Ah. Yeah...	Ah. Ja...
+src/characters/tutorial_character.lua:261	dialogue	Instant WIPE	Gelijk GESNEUVELD
+src/characters/tutorial_character.lua:262	dialogue	When ALL DICE you rolled roll BUST, your Turn is over straight away.	Wanneer ALLE DOBBELSTENEN die je gooit BLUNDERS zijn, is je Beurt meteen voorbij.
+src/characters/tutorial_character.lua:263	dialogue	Rolling a single die makes that very likely, but it can happen with any roll!	Het gebeurt snel als je maar één dobbelsteen gooit, maar het kan bij elke worp gebeuren!
+src/characters/tutorial_character.lua:276	dialogue	This is your last turn.	Dit is je laatste beurt.
+src/characters/tutorial_character.lua:277	dialogue	You have to go all in now, no point in BANKing early.	Je moet nu alles inzetten, geen zin om vroeg te STORTen.
+src/characters/tutorial_character.lua:278	dialogue	You can still do it!	Ik heb er nog vertrouwen in!
+src/characters/tutorial_character.lua:288	dialogue	Well, you failed the tutorial.	Goed, je hebt de tutorial niet gehaald.
+src/characters/tutorial_character.lua:289	dialogue	I'll bring you back this time.	Ik breng je deze keer terug.
+src/characters/tutorial_character.lua:293	dialogue	Be better.	Wees beter.
+src/characters/tutorial_character.lua:302	dialogue	Welp.	Nou ja.
+src/characters/tutorial_character.lua:303	dialogue	Pretty good for the first go.	Best prima voor de eerste keer
+src/characters/tutorial_character.lua:305	dialogue	I didn't explain it all but you're a smart cookie.	Ik heb het niet volledig uitgelegd, maar je bent een pienter persoontje.
+src/characters/tutorial_character.lua:306	dialogue	You can figure out the rest.	Je kunt de rest zelf wel bedenken.
+src/characters/tutorial_character.lua:308	dialogue	I'll see you in the real game.	Ik zie je wel weer in het echte spel.
+src/characters/tutorial_character.lua:309	dialogue	Remember, luck helps. Judgement matters more.	Onthoud, geluk helpt. Oordeel is belangrijker.
+src/characters/wizard.lua:2		Wizard	Tovenaar
+src/characters/wizard.lua:43		Wizard 2	Tovenaar 2
+src/characters/wizard.lua:51		Wizard 3	Tovenaar 3
+src/characters/wizard.lua:70	dialogue	Get to level 7, and you're free.	Haal level 7 en je bent vrij.
+src/characters/wizard.lua:73	dialogue	Get to level 10, and you're free.	Haal level 10 en je bent vrij.
+src/characters/wizard.lua:189	dialogue	...Want to see a magic trick?	...Wil je een goocheltruc zien?
 src/characters/wizard.lua:197	dialogue	Boo :)	Boe :)
 src/characters/wizard.lua:210	dialogue	Tada!	Tada!
 src/coloured_text.lua:8 (+115 others)		bust	blunder
