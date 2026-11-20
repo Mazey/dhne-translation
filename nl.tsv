@@ -378,112 +378,112 @@ src/entities/shop.lua:1246		pay up	betalen
 src/entities/shop.lua:1246		take change	neem wisselgeld
 src/entities/shop.lua:1309		bye	doei
 src/entities/shop.lua:1354		Reroll - ${current_cost}¥	Vernieuwen - ${current_cost}¥
-src/entities/slot.lua:13 (+1 others)		slot	
-src/entities/tape.lua:27 (+1 others)		spin	
-src/entities/tape.lua:30		shadow	
-src/entities/tape.lua:48		tape	
-src/entities/tape.lua:71		waiting	
-src/entities/tape.lua:455		- web	
-src/entities/title_text.lua:3		DICE HAVE\nNO EYES	
-src/entities/title_text.lua:5		DICE HAVE\nNÕ EYES	
-src/entities/title_text.lua:6		DICE HAVE\nNÖ EYES	
-src/entities/title_text.lua:121		DEMO	
-src/item_unlocks.lua:6		Basic Spells	
-src/item_unlocks.lua:7		beginner magic	
-src/item_unlocks.lua:15		Basic Passives	
-src/item_unlocks.lua:16		situational benefits	
-src/item_unlocks.lua:24		Basic Combos	
-src/item_unlocks.lua:25		upgrade your faves	
-src/item_unlocks.lua:33		Basic Snacks	
-src/item_unlocks.lua:34		tasty treats for hungry dice	
-src/item_unlocks.lua:42		Basic Quests	
-src/item_unlocks.lua:53		Parenting	
-src/item_unlocks.lua:54		life comes at you fast	
-src/item_unlocks.lua:61		Hold	
-src/item_unlocks.lua:62		HOLD!!!	
-src/item_unlocks.lua:72		Numerology	
-src/item_unlocks.lua:73		special numbers are special	
-src/item_unlocks.lua:81		More Spells	
-src/item_unlocks.lua:82		advanced magic	
-src/item_unlocks.lua:90		More Snacks	
-src/item_unlocks.lua:91		get some variety in your diet	
-src/item_unlocks.lua:100		Diet Culture	
-src/item_unlocks.lua:101		its real bad for you	
-src/item_unlocks.lua:108		All In	
-src/item_unlocks.lua:109		for when youve got nothing to lose	
-src/item_unlocks.lua:118		Lover	
-src/item_unlocks.lua:119		everything to do with pairs	
-src/item_unlocks.lua:127		Multipliers	
-src/item_unlocks.lua:128		make number go bigger	
-src/item_unlocks.lua:136		Maximalist	
-src/item_unlocks.lua:137		more dice more better	
-src/item_unlocks.lua:145		Self Control	
-src/item_unlocks.lua:146		as if	
-src/item_unlocks.lua:154		Pain	
-src/item_unlocks.lua:155		it hurts but in a good way	
-src/item_unlocks.lua:164 (+1 others)		Comeback	
-src/item_unlocks.lua:165		you've still got plenty left	
-src/item_unlocks.lua:174		Momentum	
-src/item_unlocks.lua:175		chain combos forever	
-src/item_unlocks.lua:183		Workaholic	
-src/item_unlocks.lua:184		put your power back to work	
-src/item_unlocks.lua:193		Mind Expansion	
-src/item_unlocks.lua:194		gigabrained complicated nonsense	
-src/item_unlocks.lua:203		Actualisation	
-src/item_unlocks.lua:204		get actualised	
-src/item_unlocks.lua:212		Rich Man	
-src/item_unlocks.lua:213		money money money	
-src/item_unlocks.lua:222		Degenerate	
-src/item_unlocks.lua:223		as luck would have it	
-src/item_unlocks.lua:232		Biscuit	
-src/item_unlocks.lua:233		worth risking it for	
-src/item_unlocks.lua:241		Send It	
-src/item_unlocks.lua:242		when in doubt go flat out	
-src/item_unlocks.lua:251 (+1 others)		Ghost	
-src/item_unlocks.lua:252		pretty spooky	
-src/item_unlocks.lua:261 (+1 others)		Shield	
-src/item_unlocks.lua:262		bust protection	
-src/item_unlocks.lua:271		Slow N Steady	
-src/item_unlocks.lua:272		gets you nowhere	
-src/item_unlocks.lua:280		Patience	
-src/item_unlocks.lua:281		a virtue	
-src/item_unlocks.lua:290		Straights	
-src/item_unlocks.lua:291		they're at it again	
-src/item_unlocks.lua:299		Dumplings	
-src/item_unlocks.lua:300		yum yum in my tum	
-src/item_unlocks.lua:308		Pig	
-src/item_unlocks.lua:309		get greedy	
-src/item_unlocks.lua:319		Numeracy	
-src/item_unlocks.lua:320		make the numbers behave	
-src/item_unlocks.lua:332		Shop Expansion	
-src/item_unlocks.lua:333		more items more good	
-src/item_unlocks.lua:341		Mega Shop	
-src/item_unlocks.lua:342		more items more items more items	
-src/item_unlocks.lua:352		More Funky Dice	
-src/item_unlocks.lua:353		Special Side Effects in shops!\nMult, Debust, Power and Cracked	
-src/item_unlocks.lua:361		Even More Dice	
-src/item_unlocks.lua:362		Special Side Effects in shops!\nSkip, Mirror, Hardy and Doom	
-src/item_unlocks.lua:373		Fish Trinkets	
-src/item_unlocks.lua:374		from the sea	
-src/item_unlocks.lua:382		Sardine Magic	
-src/item_unlocks.lua:383		abracadabra	
-src/item_unlocks.lua:390		Faves	
-src/item_unlocks.lua:391		play with your favourites	
-src/items.lua:10		Something fell from the sky	
-src/items.lua:36		Power Limit Up	
-src/items.lua:39		Power Limit +1	
-src/items.lua:50		Power Limit +1!	
-src/items.lua:55		Trinket Limit Up	
-src/items.lua:58		Trinket Limit +1	
-src/items.lua:67		Trinket Limit +1!	
-src/items.lua:72		Dice limit up	
-src/items.lua:75		Dice Limit +1	
-src/items.lua:84		Dice Limit +1!	
-src/items.lua:90		Coin Burst	
-src/items.lua:93		+300 Points per coin you own	
-src/items.lua:107 (+1 others)		No coins!	
-src/items.lua:113		Ghost Jar	
-src/items.lua:116		Spawn 3 ghost dice	
+src/entities/slot.lua:13 (+1 others)		slot	sleuf
+src/entities/tape.lua:27 (+1 others)		spin	draaien
+src/entities/tape.lua:30		shadow	schaduw
+src/entities/tape.lua:48		tape	tape
+src/entities/tape.lua:71		waiting	wachten
+src/entities/tape.lua:455		- web	- web
+src/entities/title_text.lua:3		DICE HAVE\nNO EYES	DICE HAVE\nNO EYES
+src/entities/title_text.lua:5		DICE HAVE\nNÕ EYES	DICE HAVE\nNÕ EYES
+src/entities/title_text.lua:6		DICE HAVE\nNÖ EYES	DICE HAVE\nNÖ EYES
+src/entities/title_text.lua:121		DEMO	DEMO
+src/item_unlocks.lua:6		Basic Spells	Basisspreuken
+src/item_unlocks.lua:7		beginner magic	beginner magie
+src/item_unlocks.lua:15		Basic Passives	Basispassieven
+src/item_unlocks.lua:16		situational benefits	situationele voordelen
+src/item_unlocks.lua:24		Basic Combos	Basiscombo's
+src/item_unlocks.lua:25		upgrade your faves	upgrade je favorieten
+src/item_unlocks.lua:33		Basic Snacks	Basis Tussendoortjes
+src/item_unlocks.lua:34		tasty treats for hungry dice	heerlijke toetjes voor hongerige dobbelstenen
+src/item_unlocks.lua:42		Basic Quests	Basis missies
+src/item_unlocks.lua:53		Parenting	Ouderdom
+src/item_unlocks.lua:54		life comes at you fast	levens komt je snel tegemoet
+src/item_unlocks.lua:61		Hold	wachten
+src/item_unlocks.lua:62		HOLD!!!	WACHTEN!!!
+src/item_unlocks.lua:72		Numerology	Numerologie
+src/item_unlocks.lua:73		special numbers are special	speciaal getallen zijn speciaal
+src/item_unlocks.lua:81		More Spells	Meer Spreuken
+src/item_unlocks.lua:82		advanced magic	geavanceerde magie
+src/item_unlocks.lua:90		More Snacks	Meer Tussendoortjes
+src/item_unlocks.lua:91		get some variety in your diet	krijg wat variatie in je dieet
+src/item_unlocks.lua:100		Diet Culture	Dieetcultuur
+src/item_unlocks.lua:101		its real bad for you	het is echt slecht voor je
+src/item_unlocks.lua:108		All In	All in
+src/item_unlocks.lua:109		for when youve got nothing to lose	voor wanneer je niets te verliezen hebt
+src/item_unlocks.lua:118		Lover	Geliefde
+src/item_unlocks.lua:119		everything to do with pairs	alle dingen die te maken hebben met paren
+src/item_unlocks.lua:127		Multipliers	Vermenigvuldigers
+src/item_unlocks.lua:128		make number go bigger	getal moet groter
+src/item_unlocks.lua:136		Maximalist	Maximalist
+src/item_unlocks.lua:137		more dice more better	meer dobbelstenen meer beter
+src/item_unlocks.lua:145		Self Control	Zelfbeheersing
+src/item_unlocks.lua:146		as if	alsof
+src/item_unlocks.lua:154		Pain	Pijn
+src/item_unlocks.lua:155		it hurts but in a good way	het doet zeer maar op een goede manier
+src/item_unlocks.lua:164 (+1 others)		Comeback	Comeback
+src/item_unlocks.lua:165		you've still got plenty left	je hebt nog genoeg in je
+src/item_unlocks.lua:174		Momentum	Momentum
+src/item_unlocks.lua:175		chain combos forever	kettingcombinaties voor altijd
+src/item_unlocks.lua:183		Workaholic	Workaholic
+src/item_unlocks.lua:184		put your power back to work	zet je kracht terug op werk
+src/item_unlocks.lua:193		Mind Expansion	Verstandsuitbreiding
+src/item_unlocks.lua:194		gigabrained complicated nonsense	gigabrein complexe nonsens
+src/item_unlocks.lua:203		Actualisation	Actualisatie
+src/item_unlocks.lua:204		get actualised	wordt geactualiseerd
+src/item_unlocks.lua:212		Rich Man	Rijke Tatta
+src/item_unlocks.lua:213		money money money	geld geld geld
+src/item_unlocks.lua:222		Degenerate	Ontaarde
+src/item_unlocks.lua:223		as luck would have it	zoals geluk het zou hebben
+src/item_unlocks.lua:232		Biscuit	Biscuit
+src/item_unlocks.lua:233		worth risking it for	het is het waard om het voor te riskeren
+src/item_unlocks.lua:241		Send It	Ga ervoor
+src/item_unlocks.lua:242		when in doubt go flat out	Bij twijfel: vol gas
+src/item_unlocks.lua:251 (+1 others)		Ghost	Geest
+src/item_unlocks.lua:252		pretty spooky	redelijk eng
+src/item_unlocks.lua:261 (+1 others)		Shield	Schild
+src/item_unlocks.lua:262		bust protection	blunderbescherming
+src/item_unlocks.lua:271		Slow N Steady	Gestaag en Rustig
+src/item_unlocks.lua:272		gets you nowhere	leidt je nergens
+src/item_unlocks.lua:280		Patience	Geduld
+src/item_unlocks.lua:281		a virtue	een schone zaak
+src/item_unlocks.lua:290		Straights	Straights
+src/item_unlocks.lua:291		they're at it again	ze zijn weer bezig
+src/item_unlocks.lua:299		Dumplings	Knoedels
+src/item_unlocks.lua:300		yum yum in my tum	hap slik weg
+src/item_unlocks.lua:308		Pig	Varken
+src/item_unlocks.lua:309		get greedy	gretig worden
+src/item_unlocks.lua:319		Numeracy	Numeriek
+src/item_unlocks.lua:320		make the numbers behave	laat de getallen zich gedragen
+src/item_unlocks.lua:332		Shop Expansion	Winkel Uitbreiding
+src/item_unlocks.lua:333		more items more good	meer items meer beter
+src/item_unlocks.lua:341		Mega Shop	Mega Winkel
+src/item_unlocks.lua:342		more items more items more items	meer items meer items meer items
+src/item_unlocks.lua:352		More Funky Dice	Meer Gekke Dobbelstenen
+src/item_unlocks.lua:353		Special Side Effects in shops!\nMult, Debust, Power and Cracked	Speciale bijwerkingen in winkels!\nMult, Ontblunder, Kracht en Gebarsten
+src/item_unlocks.lua:361		Even More Dice	Nog Meer Dobbelstenen
+src/item_unlocks.lua:362		Special Side Effects in shops!\nSkip, Mirror, Hardy and Doom	Speciale bijwerkingen in winkels!\nOverslaan, Spiegel, Taai en Doem
+src/item_unlocks.lua:373		Fish Trinkets	Vis Prulletjes
+src/item_unlocks.lua:374		from the sea	uit de zee
+src/item_unlocks.lua:382		Sardine Magic	Sardine Magie
+src/item_unlocks.lua:383		abracadabra	abracadabraam
+src/item_unlocks.lua:390		Faves	Favorietjes
+src/item_unlocks.lua:391		play with your favourites	speel met je favorieten
+src/items.lua:10		Something fell from the sky	Iets viel uit de lucht
+src/items.lua:36		Power Limit Up	Krachtlimiet omhoog
+src/items.lua:39		Power Limit +1	Krachtlimiet +1
+src/items.lua:50		Power Limit +1!	Krachtlimiet +1!
+src/items.lua:55		Trinket Limit Up	Prulletjeslimiet omhoog
+src/items.lua:58		Trinket Limit +1	Prulletjeslimiet +1
+src/items.lua:67		Trinket Limit +1!	Prulletjeslimiet +1!
+src/items.lua:72		Dice limit up	Dobbelstenenlimiet omhoog
+src/items.lua:75		Dice Limit +1	Dobbelstenenlimiet +1
+src/items.lua:84		Dice Limit +1!	Dobbelstenenlimiet +1!
+src/items.lua:90		Coin Burst	Muntuitbarsting
+src/items.lua:93		+300 Points per coin you own	+300 Punten per munt die je bezit
+src/items.lua:107 (+1 others)		No coins!	Geen munten!
+src/items.lua:113		Ghost Jar	Geestenpot
+src/items.lua:116		Spawn 3 ghost dice	Spawn 3 geest dobbelstenen
 src/items.lua:122		cast	
 src/items.lua:134		Bust Shield	
 src/items.lua:137		Bust Shield On	
