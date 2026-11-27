@@ -557,222 +557,223 @@ src/items.lua:721		Dumpling Bag	Knoedelzakje
 src/items.lua:724		Spawn 3 random dumplings	Spawn 3 willekeurige knoedels
 src/items.lua:738		3 dumplings!	3 knoedels!
 src/items.lua:745		Caffine Pill	Caffeïnepil
-src/items.lua:746		Make a die impatient	
-src/items.lua:760		Impatient!	
-src/items.lua:765		Tab	
-src/items.lua:766		Make a die cycle	
-src/items.lua:780		Cycling!	
-src/items.lua:785		Bolero	
-src/items.lua:786		Add 3 Bonus sides	
-src/items.lua:804		Bonus Sides Added	
-src/items.lua:809		Eggplant	
-src/items.lua:810		Add 3 Mult sides	
-src/items.lua:828 (+1 others)		Mult Sides Added	
-src/items.lua:833		Mangosteen	
-src/items.lua:834		Add a Mult side	
-src/items.lua:858		Har Gow	
-src/items.lua:859		Add a Golden side	
-src/items.lua:878		Golden side Added	
-src/items.lua:883		Pork Chop	
-src/items.lua:884		Add 4 Pig sides	
-src/items.lua:902		Pig Sides Added	
-src/items.lua:907		Hubba Bubba	
-src/items.lua:908		Add a Debust side	
-src/items.lua:926 (+1 others)		Debust Side Added	
-src/items.lua:931		Ritalin	
-src/items.lua:932		Add a Power side	
-src/items.lua:951 (+1 others)		Power Side Added	
-src/items.lua:956		Mochi	
-src/items.lua:957		Add 5 Stuck sides	
-src/items.lua:975		Stuck Sides Added	
-src/items.lua:980		Bacon	
-src/items.lua:981 (+1 others)		Add 1 Pig side	
-src/items.lua:996 (+1 others)		Pig Side Added	
-src/items.lua:1002 (+1 others)		Add 1 Skip side	
-src/items.lua:1017 (+1 others)		Skip Side Added	
-src/items.lua:1022		Black Eyed Pea	
-src/items.lua:1023		Block 1s for the next roll	
-src/items.lua:1040		Grape	
-src/items.lua:1041 (+1 others)		Add 1 Bonus side	
-src/items.lua:1056 (+1 others)		Bonus Side Added	
-src/items.lua:1061		pieróg z kapusto	
-src/items.lua:1074		+1 ♥!	
-src/items.lua:1079		Crack Candy	
-src/items.lua:1080		Add 2 Power sides	
-src/items.lua:1098		Power Sides Added	
-src/items.lua:1103		Lemon	
-src/items.lua:1104		Nudge this die +1 pip	
-src/items.lua:1119 (+1 others)		+1 pip!	
-src/items.lua:1124		Lime	
-src/items.lua:1125		Nudge this die -1 pip	
-src/items.lua:1141		-1 pip!	
-src/items.lua:1146		Pomelo	
-src/items.lua:1147		Flip this die to its opposite face	
-src/items.lua:1162		Flipped!	
-src/items.lua:1167		Orange	
-src/items.lua:1168		Nudge all other dice one pip towards this die's value	
-src/items.lua:1196		Pull!	
-src/items.lua:1201		Tumor	
-src/items.lua:1202		Spawn a ghost clone of this die	
-src/items.lua:1244		Cloned!	
-src/items.lua:1249		Eye	
-src/items.lua:1250		Add 1 pip to the shown side	
-src/items.lua:1272		Bonus Puke	
-src/items.lua:1292		Mult Puke	
-src/items.lua:1293		Add 1 Mult side	
-src/items.lua:1307		Mult Side Added	
-src/items.lua:1312		Debust Puke	
-src/items.lua:1313		Add 1 Debust side	
-src/items.lua:1332		Pig Puke	
-src/items.lua:1352		Power Puke	
-src/items.lua:1353		Add 1 Power side	
-src/items.lua:1373		Stuck Puke	
-src/items.lua:1374		Add 1 Stuck side	
-src/items.lua:1388		Stuck Side Added	
-src/items.lua:1393		Money Puke	
-src/items.lua:1394		Add 1 Golden side	
-src/items.lua:1408		Golden Side Added	
-src/items.lua:1413		Skip Puke	
-src/items.lua:1433		Mirror Puke	
-src/items.lua:1434		Add 1 Mirror side	
-src/items.lua:1448		Mirror Side Added	
-src/items.lua:1453		Cracked Puke	
-src/items.lua:1454		Add 1 Cracked side	
-src/items.lua:1468 (+2 others)		Cracked Side Added	
-src/items.lua:1473		Hardy Puke	
-src/items.lua:1474		Add 1 Hardy side	
-src/items.lua:1488		Hardy Side Added	
-src/items.lua:1493		Doom Puke	
-src/items.lua:1494		Add 1 Doom side	
-src/items.lua:1508 (+2 others)		Doom Side Added	
-src/items.lua:1513		Bust Puke	
-src/items.lua:1514		Add 1 Bust side	
-src/items.lua:1528 (+2 others)		Bust Side Added	
-src/items.lua:1533		Finger	
-src/items.lua:1534		Puke a special effect out	
-src/items.lua:1558		Emetique (TM)	
-src/items.lua:1559		Puke all special effects out	
-src/items.lua:1599		Pig Run	
-src/items.lua:1602		Pig sides score +${dynamic} points, +5 per pig rerolled this turn. Resets each turn.	
-src/items.lua:1626		pig bonus +${amount}!	
-src/items.lua:1631		Thurible	
-src/items.lua:1634		+${dynamic} Mult, +1 Mult each time a die is destroyed	
-src/items.lua:1648 (+1 others)		+1 mult	
-src/items.lua:1661		Aging Baby	
-src/items.lua:1664		+${dynamic} Points, -10 each time it activates	
-src/items.lua:1687		Growing Baby	
-src/items.lua:1690		+${dynamic} Points, +1 for each die rolled	
-src/items.lua:1706		+${amount} pts!	
-src/items.lua:1717		Bleeding Baby	
-src/items.lua:1720		+${dynamic} Mult from busts, resets on wipe	
-src/items.lua:1750		Grudge Baby	
-src/items.lua:1753		+${dynamic} Mult, -1 Mult each time you bank	
-src/items.lua:1769		-1 mult	
-src/items.lua:1781		Glass Gecko	
-src/items.lua:1782		+10 Mult, destroyed on Bust	
-src/items.lua:1799		Belly	
-src/items.lua:1802		+${dynamic} Mult, gains +0.1 Mult each time a snack is eaten	
-src/items.lua:1817		+0.1 mult	
-src/items.lua:1835		Tooth	
-src/items.lua:1838 (+1 others)		+1 Mult	
-src/items.lua:1849		Majong Tile	
-src/items.lua:1852		+2 Mult	
-src/items.lua:1864		Clam	
-src/items.lua:1867		+50 Points	
-src/items.lua:1882		+10 Mult, -2 Mult for each die scored	
-src/items.lua:1899		Papa	
-src/items.lua:1902		+1 Mult per die scored	
-src/items.lua:1918		Powered Claw	
-src/items.lua:1921		+5 Mult, uses 1 Power	
-src/items.lua:1936		POY SIAN	
-src/items.lua:1939		+40 Points for each unrolled 4	
-src/items.lua:1957		Hold The Ones	
-src/items.lua:1960		+1 Mult for each unrolled 1	
-src/items.lua:1981		Zero Bust Turbo	
-src/items.lua:1984		Banking with no Busts starts next turn with 10 Momentum	
-src/items.lua:1999		10 momentum!	
-src/items.lua:2006		Mushieltador	
-src/items.lua:2009		Gain a Bust Shield when banking if last hand was any Straight	
-src/items.lua:2035		Survival Instinct	
-src/items.lua:2038		x2 Mult on 1 turn left	
-src/items.lua:2069		Mandarine Peel	
-src/items.lua:2072		+5 Mult for first scored hand each turn	
-src/items.lua:2093		Octupus Ting	
-src/items.lua:2096		x3 Mult for your first scored hand each level	
-src/items.lua:2121		Four Legged Star	
-src/items.lua:2124		+300 points for hand containing Four Of A Kind	
-src/items.lua:2142		Minnesota Fats	
-src/items.lua:2145		+200 points for any Straight	
-src/items.lua:2151 (+2 others)		straight	
-src/items.lua:2158		Bimber	
-src/items.lua:2161		+200 points for a Full House	
+src/items.lua:746		Make a die impatient	Maak een dobbelsteen ongeduldig
+src/items.lua:760		Impatient!	Ongeduldig!
+src/items.lua:765		Tab	Bon
+src/items.lua:766		Make a die cycle	Laat een dobbelsteen zijn cyclus doorlopen
+src/items.lua:780		Cycling!	Doorloopt cyclus!
+src/items.lua:785		Bolero	Bolero
+src/items.lua:786		Add 3 Bonus sides	Voegt 3 Bonus zijden toe
+src/items.lua:804		Bonus Sides Added	Bonus Zijden Toegevoegd
+src/items.lua:809		Eggplant	Aubergine
+src/items.lua:810		Add 3 Mult sides	Voegt 3 Maal zijden toe
+src/items.lua:828 (+1 others)		Mult Sides Added	Maal Zijden Toegevoegd
+src/items.lua:833		Mangosteen	Mangosteen
+src/items.lua:834		Add a Mult side	Voegt een maal zijde toe
+src/items.lua:858		Har Gow	Haa Kaauw
+src/items.lua:859		Add a Golden side	Voegt een Gouden zijde toe
+src/items.lua:878		Golden side Added	Gouden Zijde Toegevoegd
+src/items.lua:883		Pork Chop	Varkenslap
+src/items.lua:884		Add 4 Pig sides	Voegt 4 Varken zijden toe
+src/items.lua:902		Pig Sides Added	Varken Zijden Toegevoegd
+src/items.lua:907		Hubba Bubba	Sportlife
+src/items.lua:908		Add a Debust side	Voeg een Ontblunder zijde toe
+src/items.lua:926 (+1 others)		Debust Side Added	Ontblunder Zijde Toegevoegd
+src/items.lua:931		Ritalin	Ritalin
+src/items.lua:932		Add a Power side	Voeg een Kracht zijde toe
+src/items.lua:951 (+1 others)		Power Side Added	Kracht Zijde Toegevoegd
+src/items.lua:956		Mochi	Mochi
+src/items.lua:957		Add 5 Stuck sides	Voeg 5 Vast zijden toe
+src/items.lua:975		Stuck Sides Added	Vast Zijden Toegevoegd
+src/items.lua:980		Bacon	Bacon                                       
+src/items.lua:981 (+1 others)		Add 1 Pig side	Voeg 1 Varken zijde toe
+src/items.lua:996 (+1 others)		Pig Side Added	Varken Zijde Toegevoegd
+src/items.lua:1002 (+1 others)		Add 1 Skip side	Voeg 1 Skip zijde toe
+src/items.lua:1017 (+1 others)		Skip Side Added	Skip Zijde Toegevoegd
+src/items.lua:1022		Black Eyed Pea	Koeienboon
+src/items.lua:1023		Block 1s for the next roll	Blokkeer 1en voor de volgende worp
+src/items.lua:1038 (+1 others)		Blocked!	Geblokkeerd
+src/items.lua:1040		Grape	Druif
+src/items.lua:1041 (+1 others)		Add 1 Bonus side	Voeg 1 Bonus zijde toe
+src/items.lua:1056 (+1 others)		Bonus Side Added	Bonus Zijde Toegevoegd
+src/items.lua:1061		pieróg z kapusto	Pieróg met kapusto
+src/items.lua:1074		+1 ♥!	+1 ♥!
+src/items.lua:1079		Crack Candy	Cracksnoep
+src/items.lua:1080		Add 2 Power sides	Voeg 2 Kracht zijden toe
+src/items.lua:1098		Power Sides Added	Kracht Zijden Toegevoegd
+src/items.lua:1103		Lemon	Citroen
+src/items.lua:1104		Nudge this die +1 pip	Voeg 1 oog toe aan deze dobbelsteen
+src/items.lua:1119 (+1 others)		+1 pip!	+1 oog!
+src/items.lua:1124		Lime	Limoen
+src/items.lua:1125		Nudge this die -1 pip	Trek 1 oog af van deze dobbelsteen
+src/items.lua:1141		-1 pip!	-1 oog!
+src/items.lua:1146		Pomelo	Pomelo
+src/items.lua:1147		Flip this die to its opposite face	Flip deze dobbelsteen naar zijn tegenovergestelde gezicht
+src/items.lua:1162		Flipped!	Geflipt!
+src/items.lua:1167		Orange	Sinaasappel
+src/items.lua:1168		Nudge all other dice one pip towards this die's value	Voeg 1 oog toe aan alle andere dobbelstenen in de richting van de waarde van deze dobbelsteen
+src/items.lua:1196		Pull!	Trekken!
+src/items.lua:1201		Tumor	Tumor
+src/items.lua:1202		Spawn a ghost clone of this die	Spawn een geestelijke kloon van deze dobbelsteen
+src/items.lua:1244		Cloned!	Gekloond!
+src/items.lua:1249		Eye	Oog
+src/items.lua:1250		Add 1 pip to the shown side	Voeg 1 oog toe aan het getoonde zijde
+src/items.lua:1272		Bonus Puke	Bonus Kots
+src/items.lua:1292		Mult Puke	Maal Kots
+src/items.lua:1293		Add 1 Mult side	Voeg 1 Maal zijde toe
+src/items.lua:1307		Mult Side Added	Maal Zijde Toegevoegd
+src/items.lua:1312		Debust Puke	Deblunder kots
+src/items.lua:1313		Add 1 Debust side	Voeg 1 Deblunder zijde toe
+src/items.lua:1332		Pig Puke	Varken Kots
+src/items.lua:1352		Power Puke	Kracht Kots
+src/items.lua:1353		Add 1 Power side	Voeg 1 Kracht zijde toe
+src/items.lua:1373		Stuck Puke	Vaste Kots
+src/items.lua:1374		Add 1 Stuck side	Voeg 1 Vast zijde toe
+src/items.lua:1388		Stuck Side Added	Vast Zijde Toegevoegd
+src/items.lua:1393		Money Puke	Geld Kots
+src/items.lua:1394		Add 1 Golden side	Voeg 1 Gouden zijde toe
+src/items.lua:1408		Golden Side Added	Gouden Zijde Toegevoegd
+src/items.lua:1413		Skip Puke	Skip Kots
+src/items.lua:1433		Mirror Puke	Spiegel Kots
+src/items.lua:1434		Add 1 Mirror side	Voeg 1 Spiegel zijde toe
+src/items.lua:1448		Mirror Side Added	Spiegel Zijde Toegevoegd
+src/items.lua:1453		Cracked Puke	Gebarsten Kots
+src/items.lua:1454		Add 1 Cracked side	Voeg 1 Gebarsten zijde toe
+src/items.lua:1468 (+2 others)		Cracked Side Added	Gebarsten Zijde Toegevoegd
+src/items.lua:1473		Hardy Puke	Taaie Kots
+src/items.lua:1474		Add 1 Hardy side	Voeg 1 Taai zijde toe
+src/items.lua:1488		Hardy Side Added	Taai Zijde Toegevoegd
+src/items.lua:1493		Doom Puke	Doem Kots
+src/items.lua:1494		Add 1 Doom side	Voeg 1 Doem zijde toe
+src/items.lua:1508 (+2 others)		Doom Side Added	Doem Zijde Toegevoegd
+src/items.lua:1513		Bust Puke	Blunder Kots
+src/items.lua:1514		Add 1 Bust side	Voeg 1 Blunder zijde toe
+src/items.lua:1528 (+2 others)		Bust Side Added	Blunder Zijde Toegevoegd
+src/items.lua:1533		Finger	Vinger
+src/items.lua:1534		Puke a special effect out	Kots een speciaal effect uit
+src/items.lua:1558		Emetique (TM)	Emetique (TM)
+src/items.lua:1559		Puke all special effects out	Kots alle speciale effecten uit
+src/items.lua:1599		Pig Run	Varkensronde
+src/items.lua:1602		Pig sides score +${dynamic} points, +5 per pig rerolled this turn. Resets each turn.	Varkenszijden scoren +${dynamic} punten, +5 per varken gegooid deze beurt. Gaat elke beurt naar nul.
+src/items.lua:1626		pig bonus +${amount}!	varken bonus +${amount}!
+src/items.lua:1631		Thurible	Wierookvat
+src/items.lua:1634		+${dynamic} Mult, +1 Mult each time a die is destroyed	+${dynamic} Maal, +1 Maal per verwoeste dobbelsteen
+src/items.lua:1648 (+1 others)		+1 mult	+1 maal
+src/items.lua:1661		Aging Baby	Verouderde Baby
+src/items.lua:1664		+${dynamic} Points, -10 each time it activates	+${dynamic} Punten, -10 elke keer dat het activeert
+src/items.lua:1687		Growing Baby	Groeiende Baby
+src/items.lua:1690		+${dynamic} Points, +1 for each die rolled	+${dynamic} Punten, +1 voor elke gegooide dobbelsteen
+src/items.lua:1706		+${amount} pts!	+${amount} ptn!
+src/items.lua:1717		Bleeding Baby	Bloedende Baby
+src/items.lua:1720		+${dynamic} Mult from busts, resets on wipe	+${dynamic} Maal van blunders, wordt ongedaan gemaakt per sneuvel
+src/items.lua:1750		Grudge Baby	Misgunnende Baby
+src/items.lua:1753		+${dynamic} Mult, -1 Mult each time you bank	+${dynamic} Maal, -1 Maal elke keer dat je stort
+src/items.lua:1769		-1 mult	-1 mult
+src/items.lua:1781		Glass Gecko	Glas Gecko
+src/items.lua:1782		+10 Mult, destroyed on Bust	+10 Maal, gaat kapot tijdens Blunder
+src/items.lua:1799		Belly	Buik
+src/items.lua:1802		+${dynamic} Mult, gains +0.1 Mult each time a snack is eaten	+${dynamic} Maal, krijgt +0.1 Maal elke keer dat je een tussendoortje eet
+src/items.lua:1817		+0.1 mult	+0.1 maal
+src/items.lua:1835		Tooth	Tand
+src/items.lua:1838 (+1 others)		+1 Mult	+1 Maal
+src/items.lua:1849		Majong Tile	Mahjong Steen
+src/items.lua:1852		+2 Mult	+2 Maal
+src/items.lua:1864		Clam	Mossel
+src/items.lua:1867		+50 Points	+50 Punten
+src/items.lua:1882		+10 Mult, -2 Mult for each die scored	+10 Maal, -2 Maal per gescoorde dobbelsteen
+src/items.lua:1899		Papa	Papa
+src/items.lua:1902		+1 Mult per die scored	+1 Maal per gescoorde dobbelsteen
+src/items.lua:1918		Powered Claw	Opgevoerde Klauw
+src/items.lua:1921		+5 Mult, uses 1 Power	+5 Maal, gebruikt 1 Kracht
+src/items.lua:1936		POY SIAN	POY SIAN
+src/items.lua:1939		+40 Points for each unrolled 4	+40 Punten voor elke ongegooide 4
+src/items.lua:1957		Hold The Ones	Houd De Eentjes
+src/items.lua:1960		+1 Mult for each unrolled 1	+1 Maal per ongegooide 1
+src/items.lua:1981		Zero Bust Turbo	Nul Blunder Turbo
+src/items.lua:1984		Banking with no Busts starts next turn with 10 Momentum	Storten zonder Blunders start de volgende beurt met 10 Momentum
+src/items.lua:1999		10 momentum!	10 momentum!
+src/items.lua:2006		Mushieltador	Mushieltador
+src/items.lua:2009		Gain a Bust Shield when banking if last hand was any Straight	Krijg een Blunder Schild wanner je stort als de laatste hand een Straight was
+src/items.lua:2035		Survival Instinct	Overlevingsinstinct
+src/items.lua:2038		x2 Mult on 1 turn left	x2 Maal op de laatste beurt
+src/items.lua:2069		Mandarine Peel	Mandarijn schil
+src/items.lua:2072		+5 Mult for first scored hand each turn	+5 Maal voor de eerste gescoorde hand per beurt
+src/items.lua:2093		Octupus Ting	Octopus Ding
+src/items.lua:2096		x3 Mult for your first scored hand each level	x3 Maal voor je eerste gescoorde hand per level
+src/items.lua:2121		Four Legged Star	Vierpotige Ster
+src/items.lua:2124		+300 points for hand containing Four Of A Kind	+300 Punten voor hand die Vier Dezelfde bevat
+src/items.lua:2142		Minnesota Fats	Minnesota Fats
+src/items.lua:2145		+200 points for any Straight	+200 punten for elke Straat
+src/items.lua:2151 (+2 others)		straight	straight
+src/items.lua:2158		Bimber	Moonshine
+src/items.lua:2161		+200 points for a Full House	+200 punten voor een Full House
 src/items.lua:2175		Kind Berry Three	
-src/items.lua:2178		+200 points for Three Of A Kind	
-src/items.lua:2192		Two Pair Cat	
-src/items.lua:2195		+200 points for hand containing Two Pair	
-src/items.lua:2209		Just A Pair	
-src/items.lua:2212		+100 points for a Pair	
-src/items.lua:2218 (+6 others)		pair	
-src/items.lua:2230		Fifteen sum	
-src/items.lua:2233		x3 Mult if the scored dice sum to 15	
-src/items.lua:2241 (+13 others)		dice	
-src/items.lua:2253		Sumush	
-src/items.lua:2256		x2 Mult if the scored dice sum to 10	
-src/items.lua:2275		Lil' Choy	
-src/items.lua:2278		x2 Mult when scoring 3 or fewer dice	
-src/items.lua:2296		Toad Hut	
-src/items.lua:2299		x2 Mult for hand containing Four Of A Kind	
-src/items.lua:2320		Pink Top	
-src/items.lua:2323		x2 Mult for any Straight	
-src/items.lua:2338		Absinthe	
-src/items.lua:2341		x2 Mult for Full House	
-src/items.lua:2356		Three Legged Pirate	
-src/items.lua:2359		x2 Mult for Three Of A Kind	
-src/items.lua:2375 (+1 others)		Two Pair Mult Cat	
-src/items.lua:2378		x1.5 Mult for hand containing Two Pair	
-src/items.lua:2386 (+1 others)		x1.5	
-src/items.lua:2394		Pair Mult Dog	
-src/items.lua:2397		x1.5 Mult for Pair, Two Pair and Three Pair	
-src/items.lua:2414		Poppy	
-src/items.lua:2417		x2 Mult for hand containing three 6s	
-src/items.lua:2433		Sunnies	
-src/items.lua:2436		0.5x Mult for each scored 2	
-src/items.lua:2447 (+1 others)		x${mult}	
-src/items.lua:2454		Cactus	
-src/items.lua:2457		+0.5x Mult per scored die	
-src/items.lua:2475		Yolk	
-src/items.lua:2478		Flipping a single coin +5 Mult	
-src/items.lua:2494		Lucky Leaf	
-src/items.lua:2497		x2 Mult if a coin is scored	
-src/items.lua:2514		Soy Fish	
-src/items.lua:2517		+1 Mult per scored coin	
-src/items.lua:2528 (+1 others)		+${amount} mult	
-src/items.lua:2535		Sardine	
-src/items.lua:2538		+50 Points per scored coin	
-src/items.lua:2549		+${amount} pts	
-src/items.lua:2558		Snake Hold	
-src/items.lua:2561		Snake Eyes hold hand	
-src/items.lua:2578		The Mask	
-src/items.lua:2581		Hands with 6s hold hand	
-src/items.lua:2599		Black Eye	
-src/items.lua:2602		Spawn Black Eyed Pea on Bust	
-src/items.lua:2610		Pea!	
-src/items.lua:2616		Pain Tolerance	
-src/items.lua:2619		+1 Mult on Bust	
-src/items.lua:2633		Masochist Rock	
-src/items.lua:2636		x2 Mult on Bust	
-src/items.lua:2645		x2 Mult	
-src/items.lua:2678		Palosanto	
-src/items.lua:2681		If hand Mult is over 10: +5 Mult	
-src/items.lua:2694		Chestnut	
-src/items.lua:2697		+50 points when any item triggers	
-src/items.lua:2710		Dolphin	
-src/items.lua:2713		Spawns a random snack each level	
-src/items.lua:2737 (+1 others)		Snack!	
-src/items.lua:2743		Lemonade Stand	
-src/items.lua:2746		Spawns a citrus slice each turn	
-src/items.lua:2763		Crowd Pleaser	
-src/items.lua:2766		+50 Points per trinket on board	
+src/items.lua:2178		+200 points for Three Of A Kind	+200 punten voor Drie Dezelfde
+src/items.lua:2192		Two Pair Cat	Twee Paar Kat
+src/items.lua:2195		+200 points for hand containing Two Pair	+200 punten voor een hand die Twee Paar bevat
+src/items.lua:2209		Just A Pair	Gewoon Een Paar
+src/items.lua:2212		+100 points for a Pair	+100 punten voor een Paar
+src/items.lua:2218 (+6 others)		pair	paar
+src/items.lua:2230		Fifteen sum	Vijftien som
+src/items.lua:2233		x3 Mult if the scored dice sum to 15	x3 Maal als de gescoorde dobbelstenen tot 15 tellen
+src/items.lua:2241 (+13 others)		dice	dobbelstenen
+src/items.lua:2253		Sumush	Sumush
+src/items.lua:2256		x2 Mult if the scored dice sum to 10	x2 Maal als de gescoorde dobbelstenen to 10 tellen
+src/items.lua:2275		Lil' Choy	Kleine Choy
+src/items.lua:2278		x2 Mult when scoring 3 or fewer dice	x2 Mult wanneer je 3 of minder dobbelstenen scoort
+src/items.lua:2296		Toad Hut	Paddenhut
+src/items.lua:2299		x2 Mult for hand containing Four Of A Kind	x2 Maal voor hand die Vier Dezelfde bevat
+src/items.lua:2320		Pink Top	Roze Top
+src/items.lua:2323		x2 Mult for any Straight	x2 Maal voor elke Straat
+src/items.lua:2338		Absinthe	Abscint
+src/items.lua:2341		x2 Mult for Full House	x2 Maal voor een Full House
+src/items.lua:2356		Three Legged Pirate	Driebenige Piraat
+src/items.lua:2359		x2 Mult for Three Of A Kind	x2 Maal voor Drie Dezelfde
+src/items.lua:2375 (+1 others)		Two Pair Mult Cat	Twee Paar Maal Kat
+src/items.lua:2378		x1.5 Mult for hand containing Two Pair	x1.5 Maal voor een hand die Twee Paar bevat
+src/items.lua:2386 (+1 others)		x1.5	x1.5
+src/items.lua:2394		Pair Mult Dog	Paar Maal Hond
+src/items.lua:2397		x1.5 Mult for Pair, Two Pair and Three Pair	x1.5 Maal voor een Paar, Twee Paar en Drie Paar
+src/items.lua:2414		Poppy	Klaproos
+src/items.lua:2417		x2 Mult for hand containing three 6s	x2 Maal voor een hand die drie 6en bevat
+src/items.lua:2433		Sunnies	Planga
+src/items.lua:2436		0.5x Mult for each scored 2	0.5x Maal voor elke gescoorde 2
+src/items.lua:2447 (+1 others)		x${mult}	x${mult}
+src/items.lua:2454		Cactus	Cactus
+src/items.lua:2457		+0.5x Mult per scored die	+0.5x Maal per gescoorde dobbelsteen
+src/items.lua:2475		Yolk	Dooier
+src/items.lua:2478		Flipping a single coin +5 Mult	Één munt omdraaien geeft +5 Maal
+src/items.lua:2494		Lucky Leaf	Geluksblaadje
+src/items.lua:2497		x2 Mult if a coin is scored	x2 Maal als een munt is gescoord
+src/items.lua:2514		Soy Fish	Sojavis
+src/items.lua:2517		+1 Mult per scored coin	+1 Maal per gescoorde munt
+src/items.lua:2528 (+1 others)		+${amount} mult	+${amount} maal
+src/items.lua:2535		Sardine	Sardine
+src/items.lua:2538		+50 Points per scored coin	+50 Punten per gescoorde munt
+src/items.lua:2549		+${amount} pts	+${amount} ptn
+src/items.lua:2558		Snake Hold	Slangengreep
+src/items.lua:2561		Snake Eyes hold hand	Slangenogen houd hand vast
+src/items.lua:2578		The Mask	Het Masker
+src/items.lua:2581		Hands with 6s hold hand	Handen met 6en houd hand vast
+src/items.lua:2599		Black Eye	Blauw Oog
+src/items.lua:2602		Spawn Black Eyed Pea on Bust	Spawn Koeienboon op Blunder
+src/items.lua:2610		Pea!	Boontje!
+src/items.lua:2616		Pain Tolerance	Pijntolerantie
+src/items.lua:2619		+1 Mult on Bust	+1 Maal per Blunder
+src/items.lua:2633		Masochist Rock	Masochiste Steen
+src/items.lua:2636		x2 Mult on Bust	x2 Maal per Blunder
+src/items.lua:2645		x2 Mult	x2 Maal
+src/items.lua:2678		Palosanto	Palosanto
+src/items.lua:2681		If hand Mult is over 10: +5 Mult	Als hand Maal over 10 is: +5 Maal
+src/items.lua:2694		Chestnut	Kastanje
+src/items.lua:2697		+50 points when any item triggers	+50 punten wanneer elk item activeert
+src/items.lua:2710		Dolphin	Dolfijn
+src/items.lua:2713		Spawns a random snack each level	Spawnt per level een willekeurig tussendoortje
+src/items.lua:2737 (+1 others)		Snack!	Tussendoortje!
+src/items.lua:2743		Lemonade Stand	Limonade Kraam
+src/items.lua:2746		Spawns a citrus slice each turn	Spawnt per level een citrus schijf
+src/items.lua:2763		Crowd Pleaser	Publiekslieveling
+src/items.lua:2766		+50 Points per trinket on board	+50 Punten per prulletje op het bord
 src/items.lua:2783		Double Down	
 src/items.lua:2786		Flipping a single coin x2 Mult	
 src/items.lua:2811		Just An Anxious Guy	
