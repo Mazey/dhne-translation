@@ -483,80 +483,80 @@ src/items.lua:90		Coin Burst	Muntuitbarsting
 src/items.lua:93		+300 Points per coin you own	+300 Punten per munt die je bezit
 src/items.lua:107 (+1 others)		No coins!	Geen munten!
 src/items.lua:113		Ghost Jar	Geestenpot
-src/items.lua:116		Spawn 3 ghost dice	Spawn 3 geest dobbelstenen
-src/items.lua:122		cast	
-src/items.lua:134		Bust Shield	
-src/items.lua:137		Bust Shield On	
-src/items.lua:147 (+5 others)		Shield!	
-src/items.lua:153		Uplift	
-src/items.lua:156		Nudge all dice +1 pip (no loop)	
-src/items.lua:169		+1 all	
-src/items.lua:174		Downshift	
-src/items.lua:177		All dice -1 pip (no loop)	
-src/items.lua:191		-1 all	
+src/items.lua:116		Spawn 3 ghost dice	Breng 3 geest dobbelstenen voort
+src/items.lua:122		cast	vorm
+src/items.lua:134		Bust Shield	Blunder Schild
+src/items.lua:137		Bust Shield On	Blunder Schild Aan
+src/items.lua:147 (+5 others)		Shield!	Schild!
+src/items.lua:153		Uplift	Verhef
+src/items.lua:156		Nudge all dice +1 pip (no loop)	Duw alle dobbelstenen +1 oog (geen cyclus)
+src/items.lua:169		+1 all	+1 alles
+src/items.lua:174		Downshift	Terugschakelen
+src/items.lua:177		All dice -1 pip (no loop)	Alle dobbelstenen -1 oog (geen cyclus)
+src/items.lua:191		-1 all	-1 alles
 src/items.lua:196		Clamp High	
-src/items.lua:199		All dice above 4 become 4	
+src/items.lua:199		All dice above 4 become 4	Alle dobbelstenen boven 4 worden 4
 src/items.lua:217		Clamp 4	
-src/items.lua:222		Money Reroll	
-src/items.lua:225		Reroll all dice, gain +1¥ per 6 rolled	
-src/items.lua:251 (+1 others)		+1¥	
-src/items.lua:256 (+1 others)		Unlucky	
-src/items.lua:267		Money Reroll II	
-src/items.lua:270		Reroll all dice, gain +2¥ per 1 rolled	
-src/items.lua:299 (+1 others)		+2¥	
-src/items.lua:315		Piggy Bank	
-src/items.lua:318		Gain 1¥ per Momentum and clear it	
-src/items.lua:330		No momentum!	
-src/items.lua:337 (+5 others)		+${amount}¥	
-src/items.lua:342		GOTTA GO FAST	
-src/items.lua:345		Momentum x2	
-src/items.lua:354		x2 momentum	
-src/items.lua:359		Peek	
-src/items.lua:362		Gain 1¥ per die showing 1	
-src/items.lua:384 (+2 others)		No 1s!	
-src/items.lua:390		Peek II	
-src/items.lua:393		Gain 1¥ per die showing 3	
-src/items.lua:415		No 3s!	
-src/items.lua:424		-1 Bust per die showing 1	
-src/items.lua:450		Scratchie	
-src/items.lua:453		Gain 0-3 ¥	
-src/items.lua:470 (+1 others)		Nothing!	
-src/items.lua:476		Scratchie II	
-src/items.lua:479		1 in 3 chance to win 6 ¥	
-src/items.lua:493		+6¥!	
-src/items.lua:495		No luck	
-src/items.lua:501		Scratchie III	
-src/items.lua:504		Gain 1-4 ¥	
-src/items.lua:528		Copycat	
-src/items.lua:531		Repeat the last spell used	
-src/items.lua:541 (+1 others)		Nothing to copy!	
-src/items.lua:544 (+1 others)		Copy!	
-src/items.lua:554		Repeat the last spell used, twice	
-src/items.lua:573		Heal	
-src/items.lua:576		All dice +1 ♥	
-src/items.lua:587 (+2 others)		+1 ♥	
-src/items.lua:590		Healed!	
-src/items.lua:595		Clutch	
-src/items.lua:598		Hold your next hand	
-src/items.lua:607 (+2 others)		Hold!	
-src/items.lua:613		Snack Bag	
-src/items.lua:616		Spawn 2-3 random snack items	
-src/items.lua:622 (+7 others)		open	
-src/items.lua:636		${amount} foods!	
-src/items.lua:641		Gambling Bag	
-src/items.lua:644		Send it	
-src/items.lua:665		${amount} chances!	
-src/items.lua:670		Citrus Bag	
-src/items.lua:673		Spawn 5 citrus slices	
-src/items.lua:687		Citrus!	
-src/items.lua:692		Butchers Bag	
-src/items.lua:695		Spawn 3 pig snacks	
-src/items.lua:708		Rare find!	
+src/items.lua:222		Money Reroll	Geld Vernieuwen
+src/items.lua:225		Reroll all dice, gain +1¥ per 6 rolled	Gooi alle dobbelstenen opnieuw, krijg +1¥ per gegooide 6
+src/items.lua:251 (+1 others)		+1¥	+1¥
+src/items.lua:256 (+1 others)		Unlucky	Ongelukkig
+src/items.lua:267		Money Reroll II	Geld Vernieuwen II
+src/items.lua:270		Reroll all dice, gain +2¥ per 1 rolled	Gooi alle dobbelstenen opnieuw, krijg +2¥ per gegooide 1
+src/items.lua:299 (+1 others)		+2¥	+2¥
+src/items.lua:315		Piggy Bank	Spaarvarken
+src/items.lua:318		Gain 1¥ per Momentum and clear it	Krijg 1¥ per Momentum en wis het
+src/items.lua:330		No momentum!	Geen momentum!
+src/items.lua:337 (+5 others)		+${amount}¥	+${amount}¥
+src/items.lua:342		GOTTA GO FAST	MOET SNEL GAAN
+src/items.lua:345		Momentum x2	Momentum x2
+src/items.lua:354		x2 momentum	x2 momentum
+src/items.lua:359		Peek	Spieken
+src/items.lua:362		Gain 1¥ per die showing 1	Krijg 1¥ per dobbelsteen die 1 toont
+src/items.lua:384 (+2 others)		No 1s!	Geen 1en!
+src/items.lua:390		Peek II	Spieken II
+src/items.lua:393		Gain 1¥ per die showing 3	Krijg 1¥ per dobbelsteen die 3 toont
+src/items.lua:415		No 3s!	Geen 3en!
+src/items.lua:424		-1 Bust per die showing 1	-1 Blunder per dobbelsteen die 1 toont
+src/items.lua:450		Scratchie	Kraslot
+src/items.lua:453		Gain 0-3 ¥	Krijg 0-3¥
+src/items.lua:470 (+1 others)		Nothing!	Niks!
+src/items.lua:476		Scratchie II	Kraslot II
+src/items.lua:479		1 in 3 chance to win 6 ¥	1 in 3 kans om 6 ¥ te winnen
+src/items.lua:493		+6¥!	+6¥!
+src/items.lua:495		No luck	Geen geluk
+src/items.lua:501		Scratchie III	Kraslot III
+src/items.lua:504		Gain 1-4 ¥	Krijg 1-4 ¥
+src/items.lua:528		Copycat	Na-aapje
+src/items.lua:531		Repeat the last spell used	Herhaal de laatst gebruikte spreuk
+src/items.lua:541 (+1 others)		Nothing to copy!	Niks om te kopiëren!
+src/items.lua:544 (+1 others)		Copy!	Kopie!
+src/items.lua:554		Repeat the last spell used, twice	Herhaal de laatst gebruikte spreuk, twee keer
+src/items.lua:573		Heal	Helen
+src/items.lua:576		All dice +1 ♥	Alle dobbelstenen +1 ♥
+src/items.lua:587 (+2 others)		+1 ♥	+1 ♥
+src/items.lua:590		Healed!	Geheeld!
+src/items.lua:595		Clutch	Grijpen
+src/items.lua:598		Hold your next hand	Houd je volgende hand
+src/items.lua:607 (+2 others)		Hold!	Vasthouden!
+src/items.lua:613		Snack Bag	Snackzakje
+src/items.lua:616		Spawn 2-3 random snack items	Spawn 2-3 willekeurige tussendoortjes
+src/items.lua:622 (+7 others)		open	openen
+src/items.lua:636		${amount} foods!	${amount} hapjes!
+src/items.lua:641		Gambling Bag	Gokzakje
+src/items.lua:644		Send it	Ga ervvoor
+src/items.lua:665		${amount} chances!	${amount} kansen!
+src/items.lua:670		Citrus Bag	Citruszakje
+src/items.lua:673		Spawn 5 citrus slices	Spawn 5 citrus schijfjes
+src/items.lua:687		Citrus!	Citrus!
+src/items.lua:692		Butchers Bag	Slagerszakje
+src/items.lua:695		Spawn 3 pig snacks	Spawn 3 varkentussendoortjes
+src/items.lua:708		Rare find!	Zeldzame vondst!
 src/items.lua:715		Meet!	
-src/items.lua:721		Dumpling Bag	
-src/items.lua:724		Spawn 3 random dumplings	
-src/items.lua:738		3 dumplings!	
-src/items.lua:745		Caffine Pill	
+src/items.lua:721		Dumpling Bag	Knoedelzakje
+src/items.lua:724		Spawn 3 random dumplings	Spawn 3 willekeurige knoedels
+src/items.lua:738		3 dumplings!	3 knoedels!
+src/items.lua:745		Caffine Pill	Caffeïnepil
 src/items.lua:746		Make a die impatient	
 src/items.lua:760		Impatient!	
 src/items.lua:765		Tab	
